@@ -22,7 +22,7 @@ var map = L.mapbox.map('map', 'schacon.jo9mk66n')
 var featureLayer = L.mapbox.featureLayer()
     .addTo(map);
 
-featureLayer.loadURL('/geojson.json');
+featureLayer.loadURL('geojson.json');
 
 map.featureLayer.on('ready', function() {
   featureLayer.eachLayer(function(layer) {
