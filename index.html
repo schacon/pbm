@@ -22,23 +22,14 @@ var map = L.mapbox.map('map', 'schacon.jo9mk66n')
 var featureLayer = L.mapbox.featureLayer()
     .addTo(map);
 
-// featureLayer    .bindPopup(popupInfo);
-
-featureLayer.loadURL('geojson.json');
-
-function popupInfo() {
-  console.log("hey");
-}
+featureLayer.loadURL('/geojson.json');
 
 map.featureLayer.on('ready', function() {
-  var typesObj = {}, types = [];
-  var features = map.featureLayer.getGeoJSON().features;
-  console.log(features);
-
   featureLayer.eachLayer(function(layer) {
       // here you call `bindPopup` with a string of HTML you create - the feature
       // properties declared above are available under `layer.feature.properties`
       data = layer.feature.properties;
+      console.log(data);
       var content = '<h2>' + data.title + '<\/h2>' +
           '<p><i>' + data.description + '</i></p><br \/>' +
           '<p>' + data.reservations + '<br/>' +
