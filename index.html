@@ -65,7 +65,7 @@ function show_map(position) {
     var latitude = position.coords.latitude;
     var longitude = position.coords.longitude;
     map.panTo([latitude, longitude]);
-    map.setZoom(17);
+    map.setZoom(15);
     L.marker([latitude, longitude]).addTo(map);
     initialMoved = true;
   }
