@@ -25,7 +25,8 @@
           48.8622703,
           2.3420651
         ],
-        "address_clean": "49 rue Berger, Paris 75001"
+        "address_clean": "49 rue Berger, Paris 75001",
+        "url": "http://parisbymouth.com/a-la-marguerite/"
       }
     },
     {
@@ -52,7 +53,8 @@
           48.8639666,
           2.3434085
         ],
-        "address_clean": "58 rue Jean Jacques Rousseau, Paris 75001"
+        "address_clean": "58 rue Jean Jacques Rousseau, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-beef-club/"
       }
     },
     {
@@ -79,7 +81,8 @@
           48.8674344,
           2.3327997
         ],
-        "address_clean": " 10 rue Gamboust, Paris 75001"
+        "address_clean": " 10 rue Gamboust, Paris 75001",
+        "url": "http://parisbymouth.com/cafe-des-abattoirs/"
       }
     },
     {
@@ -106,7 +109,8 @@
           48.866709,
           2.3270389
         ],
-        "address_clean": "251 rue Saint-Honoré, Paris 75001 "
+        "address_clean": "251 rue Saint-Honoré, Paris 75001 ",
+        "url": "http://parisbymouth.com/our-guide-to-paris-camelia/"
       }
     },
     {
@@ -132,7 +136,8 @@
           48.8639666,
           2.3434085
         ],
-        "address_clean": "58 rue Jean Jacques Rousseau, Paris 75001"
+        "address_clean": "58 rue Jean Jacques Rousseau, Paris 75001",
+        "url": "http://parisbymouth.com/fish-club/"
       }
     },
     {
@@ -158,7 +163,8 @@
           48.8663359,
           2.3366394
         ],
-        "address_clean": "45 rue de Richelieu, Paris 75001"
+        "address_clean": "45 rue de Richelieu, Paris 75001",
+        "url": "http://parisbymouth.com/isse/"
       }
     },
     {
@@ -185,7 +191,8 @@
           48.8664125,
           2.3368268
         ],
-        "address_clean": "47 rue de Richelieu, Paris 75001"
+        "address_clean": "47 rue de Richelieu, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-juveniles/"
       }
     },
     {
@@ -212,7 +219,8 @@
           48.8644045,
           2.342218
         ],
-        "address_clean": "5 rue Coq Héron, Paris 75001"
+        "address_clean": "5 rue Coq Héron, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-kei/"
       }
     },
     {
@@ -239,7 +247,8 @@
           48.8659373,
           2.3369018
         ],
-        "address_clean": "1 rue Villedo, Paris 75001"
+        "address_clean": "1 rue Villedo, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-kunitoraya"
       }
     },
     {
@@ -266,7 +275,8 @@
           48.8661259,
           2.3362277
         ],
-        "address_clean": "5 rue Villedo, Paris 75001"
+        "address_clean": "5 rue Villedo, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-kunitoraya-2/"
       }
     },
     {
@@ -293,7 +303,8 @@
           48.865865,
           2.331314
         ],
-        "address_clean": "6 rue du Marché St.-Honoré, Paris 75001"
+        "address_clean": "6 rue du Marché St.-Honoré, Paris 75001",
+        "url": "http://parisbymouth.com/lecume-st-honore/"
       }
     },
     {
@@ -320,7 +331,8 @@
           48.8615256,
           2.3418175
         ],
-        "address_clean": "123 rue Saint-Honoré, Paris 75001"
+        "address_clean": "123 rue Saint-Honoré, Paris 75001",
+        "url": "http://parisbymouth.com/la-regalade-st-honore/"
       }
     },
     {
@@ -347,7 +359,8 @@
           48.861529,
           2.3412868
         ],
-        "address_clean": "20 rue du Louvre, Paris 75001"
+        "address_clean": "20 rue du Louvre, Paris 75001",
+        "url": "http://parisbymouth.com/la-dame-de-pic/"
       }
     },
     {
@@ -374,7 +387,8 @@
           48.8615627,
           2.3440683
         ],
-        "address_clean": "5 rue des Prouvaires, Paris 75001"
+        "address_clean": "5 rue des Prouvaires, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-tour-de-montlhery-chez-denise/"
       }
     },
     {
@@ -401,7 +415,8 @@
           48.88619920000001,
           2.3203898
         ],
-        "address_clean": "4 rue Bridaine, Paris 75017"
+        "address_clean": "4 rue Bridaine, Paris 75017",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-garde-robe/"
       }
     },
     {
@@ -428,7 +443,8 @@
           48.865007,
           2.3282333
         ],
-        "address_clean": "228 rue de Rivoli, Paris 75001"
+        "address_clean": "228 rue de Rivoli, Paris 75001",
+        "url": "http://parisbymouth.com/le-meurice/"
       }
     },
     {
@@ -455,7 +471,8 @@
           48.8688091,
           2.32976
         ],
-        "address_clean": "8 rue des Capucines, Paris 75002"
+        "address_clean": "8 rue des Capucines, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-petit-vendome/"
       }
     },
     {
@@ -482,7 +499,8 @@
           48.8661397,
           2.331249
         ],
-        "address_clean": "10 rue Marché Saint Honoré, Paris 75001"
+        "address_clean": "10 rue Marché Saint Honoré, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-rubis/"
       }
     },
     {
@@ -509,7 +527,8 @@
           48.865568,
           2.3369666
         ],
-        "address_clean": "34 rue de Richelieu, Paris 75001"
+        "address_clean": "34 rue de Richelieu, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-bistronomes/"
       }
     },
     {
@@ -536,7 +555,8 @@
           48.8652586,
           2.3406138
         ],
-        "address_clean": "43 rue Croix des Petits Champs, Paris 75001"
+        "address_clean": "43 rue Croix des Petits Champs, Paris 75001",
+        "url": "http://parisbymouth.com/les-fines-gueules/"
       }
     },
     {
@@ -562,7 +582,8 @@
           48.8644775,
           2.3406382
         ],
-        "address_clean": " 41 rue Coquillière, Paris 75001"
+        "address_clean": " 41 rue Coquillière, Paris 75001",
+        "url": "http://parisbymouth.com/lobster-bar/"
       }
     },
     {
@@ -589,7 +610,8 @@
           48.86633550000001,
           2.3381141
         ],
-        "address_clean": "15 rue des Petits-Champs, Paris 75001"
+        "address_clean": "15 rue des Petits-Champs, Paris 75001",
+        "url": "http://parisbymouth.com/maceo/"
       }
     },
     {
@@ -616,7 +638,8 @@
           48.8666388,
           2.336746900000001
         ],
-        "address_clean": "31 rue de Petits-Champs, Paris 75001"
+        "address_clean": "31 rue de Petits-Champs, Paris 75001",
+        "url": "http://parisbymouth.com/naritake/"
       }
     },
     {
@@ -643,7 +666,8 @@
           48.8647121,
           2.3408463
         ],
-        "address_clean": "44 rue Coquillière, Paris 75001"
+        "address_clean": "44 rue Coquillière, Paris 75001",
+        "url": "http://parisbymouth.com/olio-pane-vino/"
       }
     },
     {
@@ -670,7 +694,8 @@
           48.8654671,
           2.3296697
         ],
-        "address_clean": "9 rue d’Alger, Paris 75001"
+        "address_clean": "9 rue d’Alger, Paris 75001",
+        "url": "http://parisbymouth.com/pinxo/"
       }
     },
     {
@@ -697,7 +722,8 @@
           48.8628661,
           2.3479906
         ],
-        "address_clean": " 5 rue Mondétour, Paris 75001"
+        "address_clean": " 5 rue Mondétour, Paris 75001",
+        "url": "http://parisbymouth.com/pirouette/"
       }
     },
     {
@@ -724,7 +750,8 @@
           48.8609861,
           2.3422587
         ],
-        "address_clean": "39 rue de l’Arbre Sec, Paris 75001"
+        "address_clean": "39 rue de l’Arbre Sec, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-racines-2/"
       }
     },
     {
@@ -751,7 +778,8 @@
           48.8610865,
           2.3419979
         ],
-        "address_clean": "6 rue Bailleul, Paris 75001"
+        "address_clean": "6 rue Bailleul, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-spring-restaurant/"
       }
     },
     {
@@ -778,7 +806,8 @@
           48.866709,
           2.3270389
         ],
-        "address_clean": "251 rue Saint-Honoré , Paris 75001"
+        "address_clean": "251 rue Saint-Honoré , Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-sur-mesure/"
       }
     },
     {
@@ -804,7 +833,8 @@
           48.8664974,
           2.3374036
         ],
-        "address_clean": "52 rue de Richelieu, Paris 75001"
+        "address_clean": "52 rue de Richelieu, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-verjus-restaurant/"
       }
     },
     {
@@ -830,7 +860,8 @@
           48.8663459,
           2.3375562
         ],
-        "address_clean": "47 rue de Montpensier, Paris 75001"
+        "address_clean": "47 rue de Montpensier, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-verjus/"
       }
     },
     {
@@ -857,7 +888,8 @@
           48.8630074,
           2.3394709
         ],
-        "address_clean": "13 rue des Petits-Champs, Paris 75001"
+        "address_clean": "13 rue des Petits-Champs, Paris 75001",
+        "url": "http://parisbymouth.com/our-guide-to-paris-willis-wine-bar/"
       }
     },
     {
@@ -884,7 +916,8 @@
           48.8617019,
           2.3424475
         ],
-        "address_clean": "4 rue Sauval, Paris 75001"
+        "address_clean": "4 rue Sauval, Paris 75001",
+        "url": "http://parisbymouth.com/yamtcha/"
       }
     },
     {
@@ -911,7 +944,8 @@
           48.8707915,
           2.3386994
         ],
-        "address_clean": "32 rue St. Marc, Paris 75002"
+        "address_clean": "32 rue St. Marc, Paris 75002",
+        "url": "http://parisbymouth.com/aux-lyonnais/"
       }
     },
     {
@@ -938,7 +972,8 @@
           48.8666718,
           2.341457
         ],
-        "address_clean": "1 rue du Mail, Paris 75002"
+        "address_clean": "1 rue du Mail, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-chez-georges/"
       }
     },
     {
@@ -965,7 +1000,8 @@
           48.8706319,
           2.3415709
         ],
-        "address_clean": "26 passage des Panoramas, Paris 75002"
+        "address_clean": "26 passage des Panoramas, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-coinstot-vino/"
       }
     },
     {
@@ -992,7 +1028,8 @@
           48.86877519999999,
           2.3343914
         ],
-        "address_clean": "16-18 place Gaillon, Paris 75002"
+        "address_clean": "16-18 place Gaillon, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-drouant/"
       }
     },
     {
@@ -1019,7 +1056,8 @@
           48.8701637,
           2.3359608
         ],
-        "address_clean": "1 rue de Hanovre, Paris 75002"
+        "address_clean": "1 rue de Hanovre, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-entre-deux-rives/"
       }
     },
     {
@@ -1045,7 +1083,8 @@
           48.866398,
           2.34394
         ],
-        "address_clean": "69 rue d’Argout, Paris 75002"
+        "address_clean": "69 rue d’Argout, Paris 75002",
+        "url": "http://parisbymouth.com/fee-nature/"
       }
     },
     {
@@ -1072,7 +1111,8 @@
           48.8716068,
           2.3522648
         ],
-        "address_clean": "11 rue d’Enghien, Paris 75010"
+        "address_clean": "11 rue d’Enghien, Paris 75010",
+        "url": "http://parisbymouth.com/floyds-bar-grill/%20?"
       }
     },
     {
@@ -1098,7 +1138,8 @@
           48.8677073,
           2.3479183
         ],
-        "address_clean": "5 Rue du Nil, Paris 75002"
+        "address_clean": "5 Rue du Nil, Paris 75002",
+        "url": "http://parisbymouth.com/frenchie/"
       }
     },
     {
@@ -1124,7 +1165,8 @@
           48.8677984,
           2.3479044
         ],
-        "address_clean": "6 rue du Nil, Paris 75002"
+        "address_clean": "6 rue du Nil, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-frenchie-bar-a-vins/"
       }
     },
     {
@@ -1149,7 +1191,8 @@
           48.8676723,
           2.3475733
         ],
-        "address_clean": "9 rue du Nil, Paris 75002"
+        "address_clean": "9 rue du Nil, Paris 75002",
+        "url": "http://parisbymouth.com/frenchie-to-go/"
       }
     },
     {
@@ -1175,7 +1218,8 @@
           48.8692976,
           2.3301954
         ],
-        "address_clean": " 10 rue Volney, Paris 75002"
+        "address_clean": " 10 rue Volney, Paris 75002",
+        "url": "http://parisbymouth.com/goust/"
       }
     },
     {
@@ -1201,7 +1245,8 @@
           48.8688926,
           2.3367075
         ],
-        "address_clean": " 15 rue Saint-Augustin, Paris 75002"
+        "address_clean": " 15 rue Saint-Augustin, Paris 75002",
+        "url": "http://parisbymouth.com/grille/"
       }
     },
     {
@@ -1227,7 +1272,8 @@
           48.8711986,
           2.341606
         ],
-        "address_clean": " 56 Passage des Panoramas, Paris 75002"
+        "address_clean": " 56 Passage des Panoramas, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-gyoza-bar/"
       }
     },
     {
@@ -1254,7 +1300,8 @@
           48.8676712,
           2.337134100000001
         ],
-        "address_clean": "14 rue Chabanais, Paris 75002"
+        "address_clean": "14 rue Chabanais, Paris 75002",
+        "url": "http://parisbymouth.com/hokkaido/"
       }
     },
     {
@@ -1281,7 +1328,8 @@
           48.8667579,
           2.3454046
         ],
-        "address_clean": "26 rue Léopold Bellan, Paris 75002"
+        "address_clean": "26 rue Léopold Bellan, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-il-campionissimo/"
       }
     },
     {
@@ -1308,7 +1356,8 @@
           48.8692098,
           2.3300298
         ],
-        "address_clean": "8 rue Volney, Paris 75002"
+        "address_clean": "8 rue Volney, Paris 75002",
+        "url": "http://parisbymouth.com/bistro-volnay/"
       }
     },
     {
@@ -1331,7 +1380,8 @@
           48.8663251,
           2.3399533
         ],
-        "address_clean": "1 rue de la Banque, Paris 75002"
+        "address_clean": "1 rue de la Banque, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-legrand-filles-et-fils/"
       }
     },
     {
@@ -1358,7 +1408,8 @@
           48.86916739999999,
           2.3291871
         ],
-        "address_clean": "14 rue des Capucines, Paris 75002"
+        "address_clean": "14 rue des Capucines, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-jalles/"
       }
     },
     {
@@ -1385,7 +1436,8 @@
           48.8675504,
           2.340827
         ],
-        "address_clean": "14 rue de la Banque, Paris 75002"
+        "address_clean": "14 rue de la Banque, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-liza/"
       }
     },
     {
@@ -1412,7 +1464,8 @@
           48.87108809999999,
           2.3416641
         ],
-        "address_clean": "53 passage des Panoramas, Paris 75002"
+        "address_clean": "53 passage des Panoramas, Paris 75002",
+        "url": "http://parisbymouth.com/passage-53/"
       }
     },
     {
@@ -1439,7 +1492,8 @@
           48.8712409,
           2.3418001
         ],
-        "address_clean": "8 passage des Panoramas, Paris 75002"
+        "address_clean": "8 passage des Panoramas, Paris 75002",
+        "url": "http://parisbymouth.com/racines/"
       }
     },
     {
@@ -1466,7 +1520,8 @@
           48.8675641,
           2.34399
         ],
-        "address_clean": "16 &amp; 22 rue Grenata, Paris 75002"
+        "address_clean": "16 &amp; 22 rue Grenata, Paris 75002",
+        "url": "http://parisbymouth.com/rice-fish/"
       }
     },
     {
@@ -1493,7 +1548,8 @@
           48.8683308,
           2.3415661
         ],
-        "address_clean": "17 rue Notre-Dame-des-Victoires, Paris 75002"
+        "address_clean": "17 rue Notre-Dame-des-Victoires, Paris 75002",
+        "url": "http://parisbymouth.com/saturne/"
       }
     },
     {
@@ -1518,7 +1574,8 @@
           48.8688356,
           2.3412426
         ],
-        "address_clean": "28 place de la Bourse, Paris 75002"
+        "address_clean": "28 place de la Bourse, Paris 75002",
+        "url": "http://parisbymouth.com/terroir-parisien-at-the-palais-brongniart/"
       }
     },
     {
@@ -1545,7 +1602,8 @@
           48.8622213,
           2.3630073
         ],
-        "address_clean": "27 rue de Saintonge, Paris 75003"
+        "address_clean": "27 rue de Saintonge, Paris 75003",
+        "url": "http://parisbymouth.com/al-taglio/"
       }
     },
     {
@@ -1571,7 +1629,8 @@
           48.86456769999999,
           2.3545663
         ],
-        "address_clean": "74 rue des Gravilliers, Paris 75003"
+        "address_clean": "74 rue des Gravilliers, Paris 75003",
+        "url": "http://parisbymouth.com/bobs-kitchen/"
       }
     },
     {
@@ -1598,7 +1657,8 @@
           48.86063069999999,
           2.3617901
         ],
-        "address_clean": "109 rue Vieille du Temple, Paris 75003"
+        "address_clean": "109 rue Vieille du Temple, Paris 75003",
+        "url": "http://parisbymouth.com/breizh-cafe/"
       }
     },
     {
@@ -1625,7 +1685,8 @@
           48.8581355,
           2.3644244
         ],
-        "address_clean": "49 rue de Turenne, Paris 75003"
+        "address_clean": "49 rue de Turenne, Paris 75003",
+        "url": "http://parisbymouth.com/cafe-des-musees/"
       }
     },
     {
@@ -1651,7 +1712,8 @@
           48.8750843,
           2.3484589
         ],
-        "address_clean": " 58 rue du Faubourg Poissonnière, Paris 75010"
+        "address_clean": " 58 rue du Faubourg Poissonnière, Paris 75010",
+        "url": "http://parisbymouth.com/cafe-pinson/"
       }
     },
     {
@@ -1678,7 +1740,8 @@
           48.8629395,
           2.3640889
         ],
-        "address_clean": "52 rue de Saintonge, Paris 75003"
+        "address_clean": "52 rue de Saintonge, Paris 75003",
+        "url": "http://parisbymouth.com/our-guide-to-paris-candelaria/"
       }
     },
     {
@@ -1705,7 +1768,8 @@
           48.8634728,
           2.3613053
         ],
-        "address_clean": "47 rue de Bretagne, Paris 75003"
+        "address_clean": "47 rue de Bretagne, Paris 75003",
+        "url": "http://parisbymouth.com/chez-omar/"
       }
     },
     {
@@ -1729,7 +1793,8 @@
           48.8624406,
           2.3641762
         ],
-        "address_clean": "38 rue Debelleyme, Paris 75003"
+        "address_clean": "38 rue Debelleyme, Paris 75003",
+        "url": "http://parisbymouth.com/cuisine-de-bar/"
       }
     },
     {
@@ -1756,7 +1821,8 @@
           48.86230279999999,
           2.3597117
         ],
-        "address_clean": "74 rue des Archives, Paris 75003"
+        "address_clean": "74 rue des Archives, Paris 75003",
+        "url": "http://parisbymouth.com/dessance/"
       }
     },
     {
@@ -1783,7 +1849,8 @@
           48.8603339,
           2.3614545
         ],
-        "address_clean": "101 rue Vieille du Temple, Paris 75003"
+        "address_clean": "101 rue Vieille du Temple, Paris 75003",
+        "url": "http://parisbymouth.com/glou/"
       }
     },
     {
@@ -1810,7 +1877,8 @@
           48.8593718,
           2.3672784
         ],
-        "address_clean": "91 boulevard Beaumarchais, Paris 75003"
+        "address_clean": "91 boulevard Beaumarchais, Paris 75003",
+        "url": "http://parisbymouth.com/our-guide-to-paris-grazie/"
       }
     },
     {
@@ -1836,7 +1904,8 @@
           48.8626592,
           2.3637096
         ],
-        "address_clean": "38 rue de Saintonge, Paris 75003"
+        "address_clean": "38 rue de Saintonge, Paris 75003",
+        "url": "http://parisbymouth.com/gyoza-bar-2/"
       }
     },
     {
@@ -1863,7 +1932,8 @@
           48.8644512,
           2.3551147
         ],
-        "address_clean": "95 rue Beaubourg, Paris 75003"
+        "address_clean": "95 rue Beaubourg, Paris 75003",
+        "url": "http://parisbymouth.com/our-guide-to-paris-happy-nouilles/"
       }
     },
     {
@@ -1890,7 +1960,8 @@
           48.8640039,
           2.3640859
         ],
-        "address_clean": "64 rue Charlot, Paris 75003"
+        "address_clean": "64 rue Charlot, Paris 75003",
+        "url": "http://parisbymouth.com/la-briciola/"
       }
     },
     {
@@ -1917,7 +1988,8 @@
           48.867048,
           2.3581179
         ],
-        "address_clean": "32 rue Vertbois, Paris 75003"
+        "address_clean": "32 rue Vertbois, Paris 75003",
+        "url": "http://parisbymouth.com/lami-louis/"
       }
     },
     {
@@ -1944,7 +2016,8 @@
           48.8652695,
           2.3633397
         ],
-        "address_clean": "6 rue Charles François Dupuis, Paris 75003"
+        "address_clean": "6 rue Charles François Dupuis, Paris 75003",
+        "url": "http://parisbymouth.com/le-barav/"
       }
     },
     {
@@ -1970,7 +2043,8 @@
           48.8617169,
           2.3650486
         ],
-        "address_clean": "1 rue Commines, Paris 75003"
+        "address_clean": "1 rue Commines, Paris 75003",
+        "url": "http://parisbymouth.com/le-mary-celeste/"
       }
     },
     {
@@ -1996,7 +2070,8 @@
           48.8628812,
           2.3611051
         ],
-        "address_clean": " 9 rue de Beauce, Paris 75003"
+        "address_clean": " 9 rue de Beauce, Paris 75003",
+        "url": "http://parisbymouth.com/les-enfants-rouges/"
       }
     },
     {
@@ -2023,7 +2098,8 @@
           48.8508265,
           2.3366056
         ],
-        "address_clean": "6 rue de Tournon, Paris 75006 "
+        "address_clean": "6 rue de Tournon, Paris 75006 ",
+        "url": "http://parisbymouth.com/our-guide-to-paris-nanashi/"
       }
     },
     {
@@ -2050,7 +2126,8 @@
           48.8864682,
           2.3453401
         ],
-        "address_clean": "30 rue Muller, Paris 75018"
+        "address_clean": "30 rue Muller, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-pink-flamingo/"
       }
     },
     {
@@ -2077,7 +2154,8 @@
           48.8472898,
           2.3675516
         ],
-        "address_clean": " 10 boulevard de la Bastille, Paris 75012"
+        "address_clean": " 10 boulevard de la Bastille, Paris 75012",
+        "url": "http://parisbymouth.com/rose-bakery/"
       }
     },
     {
@@ -2104,7 +2182,8 @@
           48.8583849,
           2.350088
         ],
-        "address_clean": "20 rue Saint-Martin, Paris 75004"
+        "address_clean": "20 rue Saint-Martin, Paris 75004",
+        "url": "http://parisbymouth.com/benoit/"
       }
     },
     {
@@ -2131,7 +2210,8 @@
           48.8530818,
           2.3533905
         ],
-        "address_clean": "55 quai de Bourbon, Paris 75004"
+        "address_clean": "55 quai de Bourbon, Paris 75004",
+        "url": "http://parisbymouth.com/brasserie-de-lisle-saint-louis/"
       }
     },
     {
@@ -2158,7 +2238,8 @@
           48.8576941,
           2.3584085
         ],
-        "address_clean": "2 rue des Hospitaliéres St. Gervais, Paris 75004"
+        "address_clean": "2 rue des Hospitaliéres St. Gervais, Paris 75004",
+        "url": "http://parisbymouth.com/chez-marianne/"
       }
     },
     {
@@ -2185,7 +2266,8 @@
           48.8598137,
           2.3548204
         ],
-        "address_clean": "40 rue des Blancs-Manteaux, Paris 75004"
+        "address_clean": "40 rue des Blancs-Manteaux, Paris 75004",
+        "url": "http://parisbymouth.com/claude-colliot/"
       }
     },
     {
@@ -2212,7 +2294,8 @@
           48.8540111,
           2.3672671
         ],
-        "address_clean": "3 rue des Tournelles, Paris 75004"
+        "address_clean": "3 rue des Tournelles, Paris 75004",
+        "url": "http://parisbymouth.com/our-guide-to-paris-icho/"
       }
     },
     {
@@ -2238,7 +2321,8 @@
           48.85129999999999,
           2.3557941
         ],
-        "address_clean": "4 quai d’Orléans, Paris 75004"
+        "address_clean": "4 quai d’Orléans, Paris 75004",
+        "url": "http://parisbymouth.com/our-guide-to-paris-isami/"
       }
     },
     {
@@ -2265,7 +2349,8 @@
           48.8575587,
           2.3572298
         ],
-        "address_clean": "3 rue Sainte-Croix-de-la-Bretonnerie, Paris 75004"
+        "address_clean": "3 rue Sainte-Croix-de-la-Bretonnerie, Paris 75004",
+        "url": "http://parisbymouth.com/our-guide-to-paris-jaja/"
       }
     },
     {
@@ -2292,7 +2377,8 @@
           48.8564745,
           2.3584253
         ],
-        "address_clean": "6 rue des Ecouffes, Paris 75004"
+        "address_clean": "6 rue des Ecouffes, Paris 75004",
+        "url": "http://parisbymouth.com/lalimentari/"
       }
     },
     {
@@ -2319,7 +2405,8 @@
           48.8555415,
           2.3645931
         ],
-        "address_clean": "9 place des Vosges, Paris 75004"
+        "address_clean": "9 place des Vosges, Paris 75004",
+        "url": "http://parisbymouth.com/lambroisie/"
       }
     },
     {
@@ -2346,7 +2433,8 @@
           48.8574054,
           2.3590672
         ],
-        "address_clean": "34 rue des Rosiers, Paris 75004"
+        "address_clean": "34 rue des Rosiers, Paris 75004",
+        "url": "http://parisbymouth.com/las-du-falafel/"
       }
     },
     {
@@ -2373,7 +2461,8 @@
           48.8548836,
           2.3583607
         ],
-        "address_clean": "8 rue de Jouy, Paris 75004"
+        "address_clean": "8 rue de Jouy, Paris 75004",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-metropolitain/"
       }
     },
     {
@@ -2400,7 +2489,8 @@
           48.8518839,
           2.3559293
         ],
-        "address_clean": "41 rue Saint-Louis-en Ile, Paris 75004"
+        "address_clean": "41 rue Saint-Louis-en Ile, Paris 75004",
+        "url": "http://parisbymouth.com/le-sergent-recruteur/"
       }
     },
     {
@@ -2426,7 +2516,8 @@
           48.8564745,
           2.3584253
         ],
-        "address_clean": "6 rue des Ecouffes, Paris 75004"
+        "address_clean": "6 rue des Ecouffes, Paris 75004",
+        "url": "http://parisbymouth.com/our-guide-to-paris-maison-david/"
       }
     },
     {
@@ -2453,7 +2544,8 @@
           48.8570941,
           2.3590088
         ],
-        "address_clean": " 22 rue des Ecouffes, Paris 75004"
+        "address_clean": " 22 rue des Ecouffes, Paris 75004",
+        "url": "http://parisbymouth.com/miznon/"
       }
     },
     {
@@ -2480,7 +2572,8 @@
           48.8524434,
           2.3543785
         ],
-        "address_clean": "69 Rue Saint-Louis en l’Ile, Paris 75004"
+        "address_clean": "69 Rue Saint-Louis en l’Ile, Paris 75004",
+        "url": "http://parisbymouth.com/mon-vieil-ami/"
       }
     },
     {
@@ -2507,7 +2600,8 @@
           48.8471682,
           2.3481341
         ],
-        "address_clean": " 58 rue de la Montagne-Sainte-Geneviève, Paris 75005"
+        "address_clean": " 58 rue de la Montagne-Sainte-Geneviève, Paris 75005",
+        "url": "http://parisbymouth.com/58-qualite-street"
       }
     },
     {
@@ -2534,7 +2628,8 @@
           48.8498528,
           2.3504069
         ],
-        "address_clean": "30 rue des Bernardins, Paris 75005"
+        "address_clean": "30 rue des Bernardins, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-anahuacalli/"
       }
     },
     {
@@ -2561,7 +2656,8 @@
           48.8499571,
           2.3498113
         ],
-        "address_clean": "52 boulevard Saint Germain, Paris 75005"
+        "address_clean": "52 boulevard Saint Germain, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-aux-verres-de-contact/"
       }
     },
     {
@@ -2588,7 +2684,8 @@
           48.8453891,
           2.3448164
         ],
-        "address_clean": "19 rue des Fossés Saint Jacques, Paris 75005"
+        "address_clean": "19 rue des Fossés Saint Jacques, Paris 75005",
+        "url": "http://parisbymouth.com/cafe-de-la-nouvelle-mairie/"
       }
     },
     {
@@ -2608,7 +2705,8 @@
           48.8470461,
           2.3484891
         ],
-        "address_clean": "8 rue Descartes, Paris 75005"
+        "address_clean": "8 rue Descartes, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-christophe/"
       }
     },
     {
@@ -2635,7 +2733,8 @@
           48.8392967,
           2.3512592
         ],
-        "address_clean": "119 bis rue Monge, Paris 75005"
+        "address_clean": "119 bis rue Monge, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-dans-les-landes/"
       }
     },
     {
@@ -2662,7 +2761,8 @@
           48.8391488,
           2.355944
         ],
-        "address_clean": "6 rue des Fossés Saint Marcel, Paris 75005"
+        "address_clean": "6 rue des Fossés Saint Marcel, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-desvouges/"
       }
     },
     {
@@ -2689,7 +2789,8 @@
           48.8501043,
           2.352245
         ],
-        "address_clean": "5 rue de Pontoise, Paris 75005"
+        "address_clean": "5 rue de Pontoise, Paris 75005",
+        "url": "http://parisbymouth.com/itineraires/"
       }
     },
     {
@@ -2716,7 +2817,8 @@
           48.8499101,
           2.3551019
         ],
-        "address_clean": "15 quai de la Tournelle, Paris 75005"
+        "address_clean": "15 quai de la Tournelle, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-tour-dargent/"
       }
     },
     {
@@ -2743,7 +2845,8 @@
           48.8491048,
           2.353876
         ],
-        "address_clean": "10 rue Cardinal Lemoine, Paris 75005"
+        "address_clean": "10 rue Cardinal Lemoine, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-bistro-des-gastronomes/"
       }
     },
     {
@@ -2769,7 +2872,8 @@
           48.851342,
           2.344562
         ],
-        "address_clean": "14 rue Boutebrie, Paris 75005"
+        "address_clean": "14 rue Boutebrie, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-porte-pot/"
       }
     },
     {
@@ -2796,7 +2900,8 @@
           48.8499533,
           2.3459522
         ],
-        "address_clean": "8 rue Thénard, Paris 75005"
+        "address_clean": "8 rue Thénard, Paris 75005",
+        "url": "http://parisbymouth.com/le-pre-verre/"
       }
     },
     {
@@ -2823,7 +2928,8 @@
           48.8524238,
           2.346943
         ],
-        "address_clean": "10 rue St. Julien le Pauvre, Paris 75005"
+        "address_clean": "10 rue St. Julien le Pauvre, Paris 75005",
+        "url": "http://parisbymouth.com/le-ribouldingue/"
       }
     },
     {
@@ -2849,7 +2955,8 @@
           48.8518886,
           2.344309
         ],
-        "address_clean": "31 rue de la Parcheminerie, Paris 75005"
+        "address_clean": "31 rue de la Parcheminerie, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lengue/"
       }
     },
     {
@@ -2876,7 +2983,8 @@
           48.844553,
           2.3414253
         ],
-        "address_clean": "30 rue Gay Lussac, Paris 75005"
+        "address_clean": "30 rue Gay Lussac, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-papilles/"
       }
     },
     {
@@ -2903,7 +3011,8 @@
           48.8496802,
           2.35342
         ],
-        "address_clean": "22 boulevard Saint Germain, Paris 75005"
+        "address_clean": "22 boulevard Saint Germain, Paris 75005",
+        "url": "http://parisbymouth.com/les-pates-vivantes/"
       }
     },
     {
@@ -2930,7 +3039,8 @@
           48.8516132,
           2.3482611
         ],
-        "address_clean": "12 rue de l’Hôtel Colbert, Paris 75005"
+        "address_clean": "12 rue de l’Hôtel Colbert, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-sola/"
       }
     },
     {
@@ -2957,7 +3067,8 @@
           48.8484885,
           2.3507865
         ],
-        "address_clean": "20 rue Saint Victor, Paris 75005"
+        "address_clean": "20 rue Saint Victor, Paris 75005",
+        "url": "http://parisbymouth.com/our-guide-to-paris-terroir-parisien/"
       }
     },
     {
@@ -2984,7 +3095,8 @@
           48.8532489,
           2.3409813
         ],
-        "address_clean": "41 Rue Saint-André des Arts, Paris 75006"
+        "address_clean": "41 Rue Saint-André des Arts, Paris 75006",
+        "url": "http://parisbymouth.com/allard/"
       }
     },
     {
@@ -3009,7 +3121,8 @@
           48.8693421,
           2.3218826
         ],
-        "address_clean": "25 rue Boissy d’Anglas, Paris 75008"
+        "address_clean": "25 rue Boissy d’Anglas, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-bread-roses/"
       }
     },
     {
@@ -3036,7 +3149,8 @@
           48.8475348,
           2.3230452
         ],
-        "address_clean": " 83 rue du Cherche Midi, Paris 75006"
+        "address_clean": " 83 rue du Cherche Midi, Paris 75006",
+        "url": "http://parisbymouth.com/cafe-trama/"
       }
     },
     {
@@ -3063,7 +3177,8 @@
           48.8541342,
           2.3365809
         ],
-        "address_clean": "54 rue de Seine, Paris 75006"
+        "address_clean": "54 rue de Seine, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-cosi/"
       }
     },
     {
@@ -3090,7 +3205,8 @@
           48.843728,
           2.3284113
         ],
-        "address_clean": "7 rue Stanislas, Paris 75006"
+        "address_clean": "7 rue Stanislas, Paris 75006",
+        "url": "http://parisbymouth.com/chez-marcel/"
       }
     },
     {
@@ -3117,7 +3233,8 @@
           48.85306139999999,
           2.3315204
         ],
-        "address_clean": "11 rue Bernard Palissy, Paris 75006"
+        "address_clean": "11 rue Bernard Palissy, Paris 75006",
+        "url": "http://parisbymouth.com/coco-co/"
       }
     },
     {
@@ -3144,7 +3261,8 @@
           48.8542146,
           2.3370337
         ],
-        "address_clean": "69 rue de Seine, Paris 75006"
+        "address_clean": "69 rue de Seine, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-fish-la-boissonnerie/"
       }
     },
     {
@@ -3171,7 +3289,8 @@
           48.8548201,
           2.3417581
         ],
-        "address_clean": "45 quai des Grands Augustins, Paris 75006"
+        "address_clean": "45 quai des Grands Augustins, Paris 75006",
+        "url": "http://parisbymouth.com/fogon/"
       }
     },
     {
@@ -3198,7 +3317,8 @@
           48.8500181,
           2.3277512
         ],
-        "address_clean": "4 rue d’Assas, Paris 75006"
+        "address_clean": "4 rue d’Assas, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-helene-darroze/"
       }
     },
     {
@@ -3225,7 +3345,8 @@
           48.8528068,
           2.3359353
         ],
-        "address_clean": "3 rue Montfaucon, Paris 75006"
+        "address_clean": "3 rue Montfaucon, Paris 75006",
+        "url": "http://parisbymouth.com/huitrerie-regis/"
       }
     },
     {
@@ -3252,7 +3373,8 @@
           48.845758,
           2.3198888
         ],
-        "address_clean": "117 rue du Cherche Midi, Paris 75006"
+        "address_clean": "117 rue du Cherche Midi, Paris 75006",
+        "url": "http://parisbymouth.com/josephine-chez-dumonet/"
       }
     },
     {
@@ -3279,7 +3401,8 @@
           48.8537568,
           2.3405294
         ],
-        "address_clean": "25 rue des Grands Augustins, Paris 75006"
+        "address_clean": "25 rue des Grands Augustins, Paris 75006",
+        "url": "http://parisbymouth.com/kgb-kitchen-galerie-bis/"
       }
     },
     {
@@ -3306,7 +3429,8 @@
           48.850855,
           2.3279433
         ],
-        "address_clean": "20 rue du Cherche Midi, Paris 75006"
+        "address_clean": "20 rue du Cherche Midi, Paris 75006",
+        "url": "http://parisbymouth.com/latelier-vivanda/"
       }
     },
     {
@@ -3333,7 +3457,8 @@
           48.8520358,
           2.3388124
         ],
-        "address_clean": "3 Carrefour de l’Odéon, Paris 75006"
+        "address_clean": "3 Carrefour de l’Odéon, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lavant-comptoir/"
       }
     },
     {
@@ -3360,7 +3485,8 @@
           48.8498169,
           2.3254886
         ],
-        "address_clean": "11 rue Dupin, Paris 75006"
+        "address_clean": "11 rue Dupin, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lepi-dupin/"
       }
     },
     {
@@ -3387,7 +3513,8 @@
           48.8517072,
           2.3378063
         ],
-        "address_clean": "9 rue des Quatre-Vents, Paris 75006"
+        "address_clean": "9 rue des Quatre-Vents, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-cremerie/"
       }
     },
     {
@@ -3414,7 +3541,8 @@
           48.8422055,
           2.3292291
         ],
-        "address_clean": "105 boulevard du Montparnasse, Paris 75006"
+        "address_clean": "105 boulevard du Montparnasse, Paris 75006",
+        "url": "http://parisbymouth.com/la-rotonde/"
       }
     },
     {
@@ -3441,7 +3569,8 @@
           48.85502,
           2.337891
         ],
-        "address_clean": "21 rue Mazarine, Paris 75006"
+        "address_clean": "21 rue Mazarine, Paris 75006",
+        "url": "http://parisbymouth.com/le-21/"
       }
     },
     {
@@ -3468,7 +3597,8 @@
           48.85272399999999,
           2.3305122
         ],
-        "address_clean": "27 rue du Dragon, Paris 75006"
+        "address_clean": "27 rue du Dragon, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-chardenoux-des-pres/"
       }
     },
     {
@@ -3495,7 +3625,8 @@
           48.8519222,
           2.3388769
         ],
-        "address_clean": "9 carrefour de l’Odéon, Paris 75006"
+        "address_clean": "9 carrefour de l’Odéon, Paris 75006",
+        "url": "http://parisbymouth.com/le-comptoir-du-relais/"
       }
     },
     {
@@ -3522,7 +3653,8 @@
           48.8681711,
           2.3029271
         ],
-        "address_clean": "15 rue Marbeuf, Paris 75008"
+        "address_clean": "15 rue Marbeuf, Paris 75008",
+        "url": "http://parisbymouth.com/le-relais-de-lentrecote/"
       }
     },
     {
@@ -3549,7 +3681,8 @@
           48.84417500000001,
           2.3299074
         ],
-        "address_clean": "3 rue Ste. Beuve, Paris 75006"
+        "address_clean": "3 rue Ste. Beuve, Paris 75006",
+        "url": "http://parisbymouth.com/le-timbre/"
       }
     },
     {
@@ -3576,7 +3709,8 @@
           48.8532114,
           2.3379679
         ],
-        "address_clean": "11 rue Gregoire de Tours, Paris 75006"
+        "address_clean": "11 rue Gregoire de Tours, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-little-breizh/"
       }
     },
     {
@@ -3603,7 +3737,8 @@
           48.8488576,
           2.3354223
         ],
-        "address_clean": "3 rue Saint Beuve, Paris 75006"
+        "address_clean": "3 rue Saint Beuve, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-moustache/"
       }
     },
     {
@@ -3630,7 +3765,8 @@
           48.8501793,
           2.3305404
         ],
-        "address_clean": "13 rue Mézières, Paris 75006"
+        "address_clean": "13 rue Mézières, Paris 75006",
+        "url": "http://parisbymouth.com/pizza-chic/"
       }
     },
     {
@@ -3657,7 +3793,8 @@
           48.8542204,
           2.3307069
         ],
-        "address_clean": "173 blvd. St. Germain, Paris 75006"
+        "address_clean": "173 blvd. St. Germain, Paris 75006",
+        "url": "http://parisbymouth.com/ralphs/"
       }
     },
     {
@@ -3684,7 +3821,8 @@
           48.8541342,
           2.3365809
         ],
-        "address_clean": "54 rue de Seine, Paris 75006"
+        "address_clean": "54 rue de Seine, Paris 75006",
+        "url": "http://parisbymouth.com/our-guide-to-paris-semilla/"
       }
     },
     {
@@ -3711,7 +3849,8 @@
           48.8425641,
           2.3302016
         ],
-        "address_clean": "17 rue Jules-Chaplain, Paris 75006"
+        "address_clean": "17 rue Jules-Chaplain, Paris 75006",
+        "url": "http://parisbymouth.com/toyo/"
       }
     },
     {
@@ -3738,7 +3877,8 @@
           48.8544891,
           2.332674
         ],
-        "address_clean": "22 rue Saint Benoit, Paris 75006"
+        "address_clean": "22 rue Saint Benoit, Paris 75006",
+        "url": "http://parisbymouth.com/yen/"
       }
     },
     {
@@ -3765,7 +3905,8 @@
           48.8549703,
           2.3411298
         ],
-        "address_clean": "4 rue des Grands Augustins, Paris 75006"
+        "address_clean": "4 rue des Grands Augustins, Paris 75006",
+        "url": "http://parisbymouth.com/ze-kitchen-galerie/"
       }
     },
     {
@@ -3792,7 +3933,8 @@
           48.8576783,
           2.3064734
         ],
-        "address_clean": "159 rue de Grenelle, Paris 75007"
+        "address_clean": "159 rue de Grenelle, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-alain-milliat/"
       }
     },
     {
@@ -3819,7 +3961,8 @@
           48.8563479,
           2.3165739
         ],
-        "address_clean": "54 rue de Bourgogne, Paris 75007"
+        "address_clean": "54 rue de Bourgogne, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-auguste/"
       }
     },
     {
@@ -3846,7 +3989,8 @@
           48.8603967,
           2.3071018
         ],
-        "address_clean": "18 rue Jean-Nicot, Paris 75007"
+        "address_clean": "18 rue Jean-Nicot, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-bellota-bellota/"
       }
     },
     {
@@ -3873,7 +4017,8 @@
           48.8558027,
           2.3076037
         ],
-        "address_clean": " 27 rue Duvivier, Paris 75007"
+        "address_clean": " 27 rue Duvivier, Paris 75007",
+        "url": "http://parisbymouth.com/bistrot-belhara/"
       }
     },
     {
@@ -3900,7 +4045,8 @@
           48.8580861,
           2.3016161
         ],
-        "address_clean": "139 rue St. Dominique, Paris 75007"
+        "address_clean": "139 rue St. Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/cafe-constant/"
       }
     },
     {
@@ -3927,7 +4073,8 @@
           48.8603015,
           2.3060495
         ],
-        "address_clean": "27 rue Malar, Paris 75007"
+        "address_clean": "27 rue Malar, Paris 75007",
+        "url": "http://parisbymouth.com/chez-lami-jean/"
       }
     },
     {
@@ -3953,7 +4100,8 @@
           48.8517208,
           2.3183474
         ],
-        "address_clean": "47 rue Babylone, Paris 75007"
+        "address_clean": "47 rue Babylone, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-coutume/"
       }
     },
     {
@@ -3980,7 +4128,8 @@
           48.8579742,
           2.3017299
         ],
-        "address_clean": "1 bis rue Augereau, Paris 75007"
+        "address_clean": "1 bis rue Augereau, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-FL/"
       }
     },
     {
@@ -4007,7 +4156,8 @@
           48.8568106,
           2.3264424
         ],
-        "address_clean": "44 rue du Bac, Paris 75007"
+        "address_clean": "44 rue du Bac, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-gaya/"
       }
     },
     {
@@ -4034,7 +4184,8 @@
           48.8602505,
           2.3154338
         ],
-        "address_clean": " 34 rue Saint-Dominique, Paris 75007"
+        "address_clean": " 34 rue Saint-Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/garance/"
       }
     },
     {
@@ -4060,7 +4211,8 @@
           48.8595623,
           2.3086962
         ],
-        "address_clean": "79 rue Saint-Dominique, Paris 75007"
+        "address_clean": "79 rue Saint-Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/jean-francois-piege/"
       }
     },
     {
@@ -4087,7 +4239,8 @@
           48.8557617,
           2.3170925
         ],
-        "address_clean": "84 rue de Varenne, Paris 75007"
+        "address_clean": "84 rue de Varenne, Paris 75007",
+        "url": "http://parisbymouth.com/larpege/"
       }
     },
     {
@@ -4114,7 +4267,8 @@
           48.8566745,
           2.3279058
         ],
-        "address_clean": "5 rue Montalembert, Paris 75007"
+        "address_clean": "5 rue Montalembert, Paris 75007",
+        "url": "http://parisbymouth.com/latelier-de-joel-robuchon/"
       }
     },
     {
@@ -4141,7 +4295,8 @@
           48.8565779,
           2.3239868
         ],
-        "address_clean": "6 rue Saint Simon, Paris 75007"
+        "address_clean": "6 rue Saint Simon, Paris 75007",
+        "url": "http://parisbymouth.com/la-ferme-saint-simon/"
       }
     },
     {
@@ -4168,7 +4323,8 @@
           48.8584043,
           2.3025349
         ],
-        "address_clean": "129 rue Saint-Dominique, Paris 75007"
+        "address_clean": "129 rue Saint-Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-fontaine-de-mars/"
       }
     },
     {
@@ -4195,7 +4351,8 @@
           48.8561544,
           2.3206947
         ],
-        "address_clean": "64 rue de Bellechasse, Paris 75007"
+        "address_clean": "64 rue de Bellechasse, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-laiterie-sainte-clotilde/"
       }
     },
     {
@@ -4222,7 +4379,8 @@
           48.8511219,
           2.3194332
         ],
-        "address_clean": "49 rue Vaneau, Paris 75007"
+        "address_clean": "49 rue Vaneau, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-table-daki/"
       }
     },
     {
@@ -4249,7 +4407,8 @@
           48.8585261,
           2.3267682
         ],
-        "address_clean": "51 rue de Verneuil, Paris 75007"
+        "address_clean": "51 rue de Verneuil, Paris 75007",
+        "url": "http://parisbymouth.com/le-cinq-mars/"
       }
     },
     {
@@ -4276,7 +4435,8 @@
           48.8587782,
           2.3281725
         ],
-        "address_clean": " 41 Rue de Lille, Paris 75007"
+        "address_clean": " 41 Rue de Lille, Paris 75007",
+        "url": "http://parisbymouth.com/les-climats/"
       }
     },
     {
@@ -4303,7 +4463,8 @@
           48.8580676,
           2.3018899
         ],
-        "address_clean": "135 rue St. Dominique, Paris 75007"
+        "address_clean": "135 rue St. Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/les-cocottes/"
       }
     },
     {
@@ -4330,7 +4491,8 @@
           48.8582707,
           2.3023203
         ],
-        "address_clean": "131 rue Saint-Dominique, Paris 75007"
+        "address_clean": "131 rue Saint-Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/les-fables-de-la-fontaine/"
       }
     },
     {
@@ -4357,7 +4519,8 @@
           48.85837009999999,
           2.2944813
         ],
-        "address_clean": "The Eiffel Tower, Paris 75007"
+        "address_clean": "The Eiffel Tower, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-jules-verne/"
       }
     },
     {
@@ -4384,7 +4547,8 @@
           48.8497015,
           2.3125591
         ],
-        "address_clean": "40 avenue Duquesne, Paris 75007"
+        "address_clean": "40 avenue Duquesne, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lily-wang/"
       }
     },
     {
@@ -4411,7 +4575,8 @@
           48.85812500000001,
           2.3024346
         ],
-        "address_clean": "4 rue de l’Exposition, Paris 75007"
+        "address_clean": "4 rue de l’Exposition, Paris 75007",
+        "url": "http://parisbymouth.com/our-guide-to-paris-pottoka/"
       }
     },
     {
@@ -4438,7 +4603,8 @@
           48.8602571,
           2.3097285
         ],
-        "address_clean": " 29 rue Surcouf, Paris 75007"
+        "address_clean": " 29 rue Surcouf, Paris 75007",
+        "url": "http://parisbymouth.com/david-toutain/"
       }
     },
     {
@@ -4465,7 +4631,8 @@
           48.8562838,
           2.3211418
         ],
-        "address_clean": " 91 rue de Grenelle, Paris 75007"
+        "address_clean": " 91 rue de Grenelle, Paris 75007",
+        "url": "http://parisbymouth.com/restaurant-es/"
       }
     },
     {
@@ -4492,7 +4659,8 @@
           48.8595623,
           2.3086962
         ],
-        "address_clean": "79 rue St. Dominique, Paris 75007"
+        "address_clean": "79 rue St. Dominique, Paris 75007",
+        "url": "http://parisbymouth.com/thoumieux/"
       }
     },
     {
@@ -4518,7 +4686,8 @@
           48.8567017,
           2.3315187
         ],
-        "address_clean": " 16 rue des Saints Pères, Paris 75007"
+        "address_clean": " 16 rue des Saints Pères, Paris 75007",
+        "url": "http://parisbymouth.com/treize/"
       }
     },
     {
@@ -4545,7 +4714,8 @@
           48.866098,
           2.304361
         ],
-        "address_clean": "25 avenue Montaigne, Paris 75008"
+        "address_clean": "25 avenue Montaigne, Paris 75008",
+        "url": "http://parisbymouth.com/alain-ducasse-at-the-plaza-athenee/"
       }
     },
     {
@@ -4572,7 +4742,8 @@
           48.8696078,
           2.322961
         ],
-        "address_clean": "9 place de la Madeleine, Paris 75008"
+        "address_clean": "9 place de la Madeleine, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-bar-le-passage/"
       }
     },
     {
@@ -4599,7 +4770,8 @@
           48.87063,
           2.3076255
         ],
-        "address_clean": "9 rue du Colisée, Paris 75008"
+        "address_clean": "9 rue du Colisée, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-caffe/"
       }
     },
     {
@@ -4626,7 +4798,8 @@
           48.86903849999999,
           2.303759
         ],
-        "address_clean": "25 rue Marbeuf, Paris 75008"
+        "address_clean": "25 rue Marbeuf, Paris 75008",
+        "url": "http://parisbymouth.com/charbon-rouge/"
       }
     },
     {
@@ -4653,7 +4826,8 @@
           48.8718282,
           2.314999
         ],
-        "address_clean": "112 rue Faubourg St. Honoré, Paris 75008"
+        "address_clean": "112 rue Faubourg St. Honoré, Paris 75008",
+        "url": "http://parisbymouth.com/le-bristol/"
       }
     },
     {
@@ -4680,7 +4854,8 @@
           48.8755452,
           2.3269807
         ],
-        "address_clean": "111 rue St. Lazare, Paris 75008"
+        "address_clean": "111 rue St. Lazare, Paris 75008",
+        "url": "http://parisbymouth.com/garnier/"
       }
     },
     {
@@ -4707,7 +4882,8 @@
           48.8727916,
           2.2974388
         ],
-        "address_clean": "133 avenue des Champs Elysées, Paris 75008 "
+        "address_clean": "133 avenue des Champs Elysées, Paris 75008 ",
+        "url": "http://parisbymouth.com/our-guide-to-paris-latelier-etoile-de-joel-robuchon/"
       }
     },
     {
@@ -4734,7 +4910,8 @@
           48.8692473,
           2.3015047
         ],
-        "address_clean": "36 avenue George V, Paris 75008"
+        "address_clean": "36 avenue George V, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-linstant-dor/"
       }
     },
     {
@@ -4761,7 +4938,8 @@
           48.8696973,
           2.3051317
         ],
-        "address_clean": "37 rue Marbeuf, Paris 75008"
+        "address_clean": "37 rue Marbeuf, Paris 75008",
+        "url": "http://parisbymouth.com/la-maison-de-laubrac/"
       }
     },
     {
@@ -4788,7 +4966,8 @@
           48.8662371,
           2.3099541
         ],
-        "address_clean": "17 avenue Franklin Roosevelt, Paris 75008"
+        "address_clean": "17 avenue Franklin Roosevelt, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lasserre/"
       }
     },
     {
@@ -4815,7 +4994,8 @@
           48.8692018,
           2.3131149
         ],
-        "address_clean": "41 avenue Gabriel, Paris 75008"
+        "address_clean": "41 avenue Gabriel, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-laurent/"
       }
     },
     {
@@ -4841,7 +5021,8 @@
           48.8718722,
           2.3176432
         ],
-        "address_clean": "In the front of Gare Saint-Lazare, rue Intérieure, Paris 75008"
+        "address_clean": "In the front of Gare Saint-Lazare, rue Intérieure, Paris 75008",
+        "url": "http://parisbymouth.com/lazare/"
       }
     },
     {
@@ -4868,7 +5049,8 @@
           48.86982260000001,
           2.300484
         ],
-        "address_clean": "39 avenue George V, Paris 75008 "
+        "address_clean": "39 avenue George V, Paris 75008 ",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-39v/"
       }
     },
     {
@@ -4895,7 +5077,8 @@
           48.8687565,
           2.300299
         ],
-        "address_clean": "31 ave George V, Paris 75008"
+        "address_clean": "31 ave George V, Paris 75008",
+        "url": "http://parisbymouth.com/le-cinq/"
       }
     },
     {
@@ -4922,7 +5105,8 @@
           48.8711328,
           2.317375600000001
         ],
-        "address_clean": " 8 rue des Saussaies, Paris 75008"
+        "address_clean": " 8 rue des Saussaies, Paris 75008",
+        "url": "http://parisbymouth.com/le-griffonier/"
       }
     },
     {
@@ -4949,7 +5133,8 @@
           48.8661091,
           2.3124544
         ],
-        "address_clean": "Ave. Winston Churchill, in The Grand Palais, Paris 75008"
+        "address_clean": "Ave. Winston Churchill, in The Grand Palais, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-mini-palais/"
       }
     },
     {
@@ -4976,7 +5161,8 @@
           48.8782278,
           2.3264115
         ],
-        "address_clean": "44 rue de Londres, Paris 75008"
+        "address_clean": "44 rue de Londres, Paris 75008",
+        "url": "http://parisbymouth.com/le-petit-chablisien/"
       }
     },
     {
@@ -5003,7 +5189,8 @@
           48.86608649999999,
           2.3164166
         ],
-        "address_clean": "1 avenue Dutuit, Paris 75008"
+        "address_clean": "1 avenue Dutuit, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-ledoyen/"
       }
     },
     {
@@ -5030,7 +5217,8 @@
           48.8758442,
           2.3027618
         ],
-        "address_clean": "195 rue du Faubourg Saint-Honoré, Paris 75008"
+        "address_clean": "195 rue du Faubourg Saint-Honoré, Paris 75008",
+        "url": "http://parisbymouth.com/les-110-de-taillevent/"
       }
     },
     {
@@ -5056,7 +5244,8 @@
           48.865844,
           2.32142
         ],
-        "address_clean": "10 place de la Concorde, Paris 75008"
+        "address_clean": "10 place de la Concorde, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-ambassadeurs/"
       }
     },
     {
@@ -5083,7 +5272,8 @@
           48.8695668,
           2.3069791
         ],
-        "address_clean": " 25 avenue des Champs-Élysées, Paris 75008"
+        "address_clean": " 25 avenue des Champs-Élysées, Paris 75008",
+        "url": "http://parisbymouth.com/napoleone/"
       }
     },
     {
@@ -5110,7 +5300,8 @@
           48.8801725,
           2.3240223
         ],
-        "address_clean": "2 rue de Berne, Paris 75008"
+        "address_clean": "2 rue de Berne, Paris 75008",
+        "url": "http://parisbymouth.com/our-guide-to-paris-neva-cuisine/"
       }
     },
     {
@@ -5137,7 +5328,8 @@
           48.8670073,
           2.3027898
         ],
-        "address_clean": " 7 Rue de la Trémoille, Paris 75008"
+        "address_clean": " 7 Rue de la Trémoille, Paris 75008",
+        "url": "http://parisbymouth.com/okuda/"
       }
     },
     {
@@ -5164,7 +5356,8 @@
           48.8732562,
           2.3003042
         ],
-        "address_clean": "6 rue Balzac, Paris 75008"
+        "address_clean": "6 rue Balzac, Paris 75008",
+        "url": "http://parisbymouth.com/pierre-gagnaire/"
       }
     },
     {
@@ -5191,7 +5384,8 @@
           48.874284,
           2.302027
         ],
-        "address_clean": "15 rue Lamennais, Paris 75008"
+        "address_clean": "15 rue Lamennais, Paris 75008",
+        "url": "http://parisbymouth.com/taillevent/"
       }
     },
     {
@@ -5218,7 +5412,8 @@
           48.8739029,
           2.3452238
         ],
-        "address_clean": "21 rue de Trévise, Paris 75009"
+        "address_clean": "21 rue de Trévise, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-autour-dun-verre/"
       }
     },
     {
@@ -5245,7 +5440,8 @@
           48.8792617,
           2.333921
         ],
-        "address_clean": " 31 rue La Bruyère, Paris 75009"
+        "address_clean": " 31 rue La Bruyère, Paris 75009",
+        "url": "http://parisbymouth.com/bistrot-la-bruyere/"
       }
     },
     {
@@ -5272,7 +5468,8 @@
           48.8781906,
           2.3303895
         ],
-        "address_clean": "14 rue de Clichy, Paris 75009"
+        "address_clean": "14 rue de Clichy, Paris 75009",
+        "url": "http://parisbymouth.com/bourgogne-sud/"
       }
     },
     {
@@ -5299,7 +5496,8 @@
           48.8800049,
           2.3450962
         ],
-        "address_clean": "36 rue Condorcet, Paris 75009"
+        "address_clean": "36 rue Condorcet, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-braisenville/"
       }
     },
     {
@@ -5326,7 +5524,8 @@
           48.8804591,
           2.337699
         ],
-        "address_clean": " 28 Rue Henri Monnier, Paris 75009"
+        "address_clean": " 28 Rue Henri Monnier, Paris 75009",
+        "url": "http://parisbymouth.com/buvette/"
       }
     },
     {
@@ -5353,7 +5552,8 @@
           48.8771079,
           2.3408524
         ],
-        "address_clean": " 8 rue Hippolyte-Lebas, Paris 75009"
+        "address_clean": " 8 rue Hippolyte-Lebas, Paris 75009",
+        "url": "http://parisbymouth.com/caillebotte/"
       }
     },
     {
@@ -5380,7 +5580,8 @@
           48.8717996,
           2.3431111
         ],
-        "address_clean": "7 rue du Faubourg Montmartre, Paris 75009"
+        "address_clean": "7 rue du Faubourg Montmartre, Paris 75009",
+        "url": "http://parisbymouth.com/chartier/"
       }
     },
     {
@@ -5407,7 +5608,8 @@
           48.8802354,
           2.3315551
         ],
-        "address_clean": "52 rue Blanche, Paris 75009"
+        "address_clean": "52 rue Blanche, Paris 75009",
+        "url": "http://parisbymouth.com/chez-grenouille/"
       }
     },
     {
@@ -5434,7 +5636,8 @@
           48.8738194,
           2.3435359
         ],
-        "address_clean": " 43 rue Richer, Paris 75009"
+        "address_clean": " 43 rue Richer, Paris 75009",
+        "url": "http://parisbymouth.com/encore/"
       }
     },
     {
@@ -5461,7 +5664,8 @@
           48.8795444,
           2.3393544
         ],
-        "address_clean": "8 rue de Navarin, Paris 75009"
+        "address_clean": "8 rue de Navarin, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-hotel-amour/"
       }
     },
     {
@@ -5487,7 +5691,8 @@
           48.8804356,
           2.3350967
         ],
-        "address_clean": " 2 Rue Pierre Fontaine, Paris 75009"
+        "address_clean": " 2 Rue Pierre Fontaine, Paris 75009",
+        "url": "http://parisbymouth.com/ito/"
       }
     },
     {
@@ -5514,7 +5719,8 @@
           48.873846,
           2.347415
         ],
-        "address_clean": "3 rue Richer, Paris 75009"
+        "address_clean": "3 rue Richer, Paris 75009",
+        "url": "http://parisbymouth.com/loffice/"
       }
     },
     {
@@ -5541,7 +5747,8 @@
           48.8738804,
           2.3454576
         ],
-        "address_clean": "22 rue de Trévise, Paris 75009"
+        "address_clean": "22 rue de Trévise, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lorient-dor/"
       }
     },
     {
@@ -5568,7 +5775,8 @@
           48.8795864,
           2.3395628
         ],
-        "address_clean": "4 rue de Navarin, Paris 75009"
+        "address_clean": "4 rue de Navarin, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-maison-mere/"
       }
     },
     {
@@ -5595,7 +5803,8 @@
           48.87327879999999,
           2.3466576
         ],
-        "address_clean": "7-9 rue Conservatoire, Paris 75009"
+        "address_clean": "7-9 rue Conservatoire, Paris 75009",
+        "url": "http://parisbymouth.com/la-regalade-conservatoire/"
       }
     },
     {
@@ -5621,7 +5830,8 @@
           48.873441,
           2.332132
         ],
-        "address_clean": "40 blvd Haussmann , Paris 75009"
+        "address_clean": "40 blvd Haussmann , Paris 75009",
+        "url": "http://parisbymouth.com/la-terrasse/"
       }
     },
     {
@@ -5648,7 +5858,8 @@
           48.87284529999999,
           2.3404421
         ],
-        "address_clean": "7 rue Rossini, Paris 75009"
+        "address_clean": "7 rue Rossini, Paris 75009",
+        "url": "http://parisbymouth.com/la-tute/"
       }
     },
     {
@@ -5675,7 +5886,8 @@
           48.87213879999999,
           2.3411542
         ],
-        "address_clean": " 16 bis boulevard Montmartre, Paris 75009"
+        "address_clean": " 16 bis boulevard Montmartre, Paris 75009",
+        "url": "http://parisbymouth.com/le-bat/"
       }
     },
     {
@@ -5702,7 +5914,8 @@
           50.4875409,
           3.2002412
         ],
-        "address_clean": "53 rue des Martyrs"
+        "address_clean": "53 rue des Martyrs",
+        "url": "http://parisbymouth.com/le-cul-de-poule/"
       }
     },
     {
@@ -5729,7 +5942,8 @@
           48.8824239,
           2.3332926
         ],
-        "address_clean": " 27 Rue Pierre Fontaine, Paris 75009"
+        "address_clean": " 27 Rue Pierre Fontaine, Paris 75009",
+        "url": "http://parisbymouth.com/ledepanneur/"
       }
     },
     {
@@ -5755,7 +5969,8 @@
           48.8814939,
           2.3339175
         ],
-        "address_clean": "19bis rue Fontaine, Paris 75009"
+        "address_clean": "19bis rue Fontaine, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-garde-temps/"
       }
     },
     {
@@ -5782,7 +5997,8 @@
           48.880499,
           2.3396402
         ],
-        "address_clean": "3 rue Victor Massé, Paris 75009"
+        "address_clean": "3 rue Victor Massé, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-pantruche/"
       }
     },
     {
@@ -5808,7 +6024,8 @@
           48.8740464,
           2.3478912
         ],
-        "address_clean": "2 rue Richer, Paris 75009"
+        "address_clean": "2 rue Richer, Paris 75009",
+        "url": "http://parisbymouth.com/le-richer/"
       }
     },
     {
@@ -5835,7 +6052,8 @@
           48.8822765,
           2.3462527
         ],
-        "address_clean": "70 rue de Dunkerque, Paris 75009"
+        "address_clean": "70 rue de Dunkerque, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-vin-au-vert/"
       }
     },
     {
@@ -5862,7 +6080,8 @@
           48.8795553,
           2.336812
         ],
-        "address_clean": "5 rue Henri Monnier, Paris 75009"
+        "address_clean": "5 rue Henri Monnier, Paris 75009",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-affranchis/"
       }
     },
     {
@@ -5889,7 +6108,8 @@
           48.879289,
           2.3347796
         ],
-        "address_clean": "25 rue la Bruyère, Paris 75009"
+        "address_clean": "25 rue la Bruyère, Paris 75009",
+        "url": "http://parisbymouth.com/les-canailles/"
       }
     },
     {
@@ -5916,7 +6136,8 @@
           48.8778239,
           2.3378256
         ],
-        "address_clean": "19 rue Notre Dame de Lorette, Paris 75009"
+        "address_clean": "19 rue Notre Dame de Lorette, Paris 75009",
+        "url": "http://parisbymouth.com/les-coulisses/"
       }
     },
     {
@@ -5943,7 +6164,8 @@
           48.8766055,
           2.3404475
         ],
-        "address_clean": "52 rue Lamartine, Paris 75009"
+        "address_clean": "52 rue Lamartine, Paris 75009",
+        "url": "http://parisbymouth.com/les-saisons/"
       }
     },
     {
@@ -5969,7 +6191,8 @@
           48.8716036,
           2.3458149
         ],
-        "address_clean": "5 rue Rongemont, Paris 75009"
+        "address_clean": "5 rue Rongemont, Paris 75009",
+        "url": "http://parisbymouth.com/maison-f/"
       }
     },
     {
@@ -5996,7 +6219,8 @@
           48.8773572,
           2.3411231
         ],
-        "address_clean": " 7 rue Choron, Paris 75009"
+        "address_clean": " 7 rue Choron, Paris 75009",
+        "url": "http://parisbymouth.com/professore/"
       }
     },
     {
@@ -6023,7 +6247,8 @@
           48.8765957,
           2.3488843
         ],
-        "address_clean": "80 rue du Faubourg Poissonière, Paris 75010"
+        "address_clean": "80 rue du Faubourg Poissonière, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-albion/"
       }
     },
     {
@@ -6050,7 +6275,8 @@
           48.870767,
           2.3581559
         ],
-        "address_clean": "31-33 rue Chateau d’Eau , Paris 75010"
+        "address_clean": "31-33 rue Chateau d’Eau , Paris 75010",
+        "url": "http://parisbymouth.com/au-comptoir-de-brice/"
       }
     },
     {
@@ -6077,7 +6303,8 @@
           48.8663956,
           2.3475454
         ],
-        "address_clean": " 32 rue Saint-Sauveur, Paris 75002"
+        "address_clean": " 32 rue Saint-Sauveur, Paris 75002",
+        "url": "http://parisbymouth.com/our-guide-to-paris-big-fernand/"
       }
     },
     {
@@ -6103,7 +6330,8 @@
           48.873528,
           2.3558836
         ],
-        "address_clean": " 84 rue du Faubourg-Saint-Denis, Paris 75010"
+        "address_clean": " 84 rue du Faubourg-Saint-Denis, Paris 75010",
+        "url": "http://parisbymouth.com/bistro-bellet/"
       }
     },
     {
@@ -6129,7 +6357,8 @@
           48.872029,
           2.3604325
         ],
-        "address_clean": "15 rue Lucien Sampaix, Paris 75010"
+        "address_clean": "15 rue Lucien Sampaix, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-bobs-juice-bar/"
       }
     },
     {
@@ -6156,7 +6385,8 @@
           48.8794535,
           2.3526293
         ],
-        "address_clean": "6 rue de Belzunce, Paris 75010"
+        "address_clean": "6 rue de Belzunce, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-chez-casimir/"
       }
     },
     {
@@ -6183,7 +6413,8 @@
           48.8795526,
           2.3522642
         ],
-        "address_clean": "10 rue de Belzunce, Paris 75010"
+        "address_clean": "10 rue de Belzunce, Paris 75010",
+        "url": "http://parisbymouth.com/chez-michel/"
       }
     },
     {
@@ -6210,7 +6441,8 @@
           48.8777787,
           2.365058
         ],
-        "address_clean": "3 rue Eugène Varlin, Paris 75010"
+        "address_clean": "3 rue Eugène Varlin, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-el-nopal/"
       }
     },
     {
@@ -6237,7 +6469,8 @@
           48.8737619,
           2.3640236
         ],
-        "address_clean": "104 quai de Jemmapes, Paris 75010"
+        "address_clean": "104 quai de Jemmapes, Paris 75010",
+        "url": "http://parisbymouth.com/hai-kai/"
       }
     },
     {
@@ -6264,7 +6497,8 @@
           48.87525429999999,
           2.3511828
         ],
-        "address_clean": "33 rue du Paradis, Paris 75010"
+        "address_clean": "33 rue du Paradis, Paris 75010",
+        "url": "http://parisbymouth.com/i-cugini/"
       }
     },
     {
@@ -6291,7 +6525,8 @@
           48.8731975,
           2.3632161
         ],
-        "address_clean": "22 rue des Vinaigriers, Paris 75010"
+        "address_clean": "22 rue des Vinaigriers, Paris 75010",
+        "url": "http://parisbymouth.com/jules-et-shim/"
       }
     },
     {
@@ -6318,7 +6553,8 @@
           48.8829272,
           2.3595703
         ],
-        "address_clean": "24 rue Cail, Paris 75010"
+        "address_clean": "24 rue Cail, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-krishna-bhavan/"
       }
     },
     {
@@ -6344,7 +6580,8 @@
           48.8741282,
           2.3640512
         ],
-        "address_clean": "52 rue Bichat, Paris 75010"
+        "address_clean": "52 rue Bichat, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-cantine-de-quentin/"
       }
     },
     {
@@ -6371,7 +6608,8 @@
           48.872998,
           2.3603235
         ],
-        "address_clean": "49 rue des Vinaigriers, Paris 75010"
+        "address_clean": "49 rue des Vinaigriers, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-taverne-de-zhao/"
       }
     },
     {
@@ -6398,7 +6636,8 @@
           48.8785618,
           2.3603689
         ],
-        "address_clean": "2 rue St. Marthe, Paris 75010"
+        "address_clean": "2 rue St. Marthe, Paris 75010",
+        "url": "http://parisbymouth.com/la-tete-dans-les-olives/"
       }
     },
     {
@@ -6425,7 +6664,8 @@
           48.8721006,
           2.366185
         ],
-        "address_clean": "10 avenue Richerand, Paris 75010"
+        "address_clean": "10 avenue Richerand, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-cambodge/"
       }
     },
     {
@@ -6452,7 +6692,8 @@
           48.8738617,
           2.3717254
         ],
-        "address_clean": "14 rue Sainte-Marthe, Paris 75010"
+        "address_clean": "14 rue Sainte-Marthe, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-au-conservatoire/"
       }
     },
     {
@@ -6479,7 +6720,8 @@
           48.8742658,
           2.3726109
         ],
-        "address_clean": "34 rue Sainte-Marthe, Paris 75010"
+        "address_clean": "34 rue Sainte-Marthe, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-galopin/"
       }
     },
     {
@@ -6506,7 +6748,8 @@
           48.8717242,
           2.3681735
         ],
-        "address_clean": "20 rue Alibert, Paris 75010"
+        "address_clean": "20 rue Alibert, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-petit-cambodge/"
       }
     },
     {
@@ -6533,7 +6776,8 @@
           48.8728371,
           2.3634326
         ],
-        "address_clean": "67 rue de Lancry, Paris 75010"
+        "address_clean": "67 rue de Lancry, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-verre-vole/"
       }
     },
     {
@@ -6560,7 +6804,8 @@
           48.8830233,
           2.3678601
         ],
-        "address_clean": "264 rue du Faubourg Saint Martin, Paris 75010"
+        "address_clean": "264 rue du Faubourg Saint Martin, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-louloucam/"
       }
     },
     {
@@ -6587,7 +6832,8 @@
           48.8717693,
           2.3678822
         ],
-        "address_clean": "2 rue Marie et Louise, Paris 75010"
+        "address_clean": "2 rue Marie et Louise, Paris 75010",
+        "url": "http://parisbymouth.com/maria-luisa/"
       }
     },
     {
@@ -6614,7 +6860,8 @@
           48.8722401,
           2.3662636
         ],
-        "address_clean": "12 avenue Richerand, Paris 75010"
+        "address_clean": "12 avenue Richerand, Paris 75010",
+        "url": "http://parisbymouth.com/philou/"
       }
     },
     {
@@ -6641,7 +6888,8 @@
           48.8733237,
           2.3621971
         ],
-        "address_clean": "34 rue des Vinaigriers, Paris 75010"
+        "address_clean": "34 rue des Vinaigriers, Paris 75010",
+        "url": "http://parisbymouth.com/piccoli-cugini/"
       }
     },
     {
@@ -6668,7 +6916,8 @@
           48.8798646,
           2.3575678
         ],
-        "address_clean": "170 rue du Faubourg Saint Denis, Paris 75010"
+        "address_clean": "170 rue du Faubourg Saint Denis, Paris 75010",
+        "url": "http://parisbymouth.com/saravanaa-bhavan/"
       }
     },
     {
@@ -6695,7 +6944,8 @@
           48.873071,
           2.362962
         ],
-        "address_clean": "23 rue des Vinaigriers, Paris 75010"
+        "address_clean": "23 rue des Vinaigriers, Paris 75010",
+        "url": "http://parisbymouth.com/voy-alimento/"
       }
     },
     {
@@ -6722,7 +6972,8 @@
           48.87298320000001,
           2.3616276
         ],
-        "address_clean": "39 rue des Vinaigriers, Paris 75010"
+        "address_clean": "39 rue des Vinaigriers, Paris 75010",
+        "url": "http://parisbymouth.com/the-sunken-chip/"
       }
     },
     {
@@ -6749,7 +7000,8 @@
           48.8722541,
           2.3544749
         ],
-        "address_clean": "56 rue du Faubourg Saint-Denis, Paris 75010"
+        "address_clean": "56 rue du Faubourg Saint-Denis, Paris 75010",
+        "url": "http://parisbymouth.com/urfa-durum/"
       }
     },
     {
@@ -6776,7 +7028,8 @@
           48.8738319,
           2.3496603
         ],
-        "address_clean": "43 rue des Petites Ecuries, Paris 75010"
+        "address_clean": "43 rue des Petites Ecuries, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-vivant/"
       }
     },
     {
@@ -6802,7 +7055,8 @@
           48.8758849,
           2.369543
         ],
-        "address_clean": "8 rue Vicq d’Azir, Paris 75010"
+        "address_clean": "8 rue Vicq d’Azir, Paris 75010",
+        "url": "http://parisbymouth.com/our-guide-to-paris-youpi-et-voila/"
       }
     },
     {
@@ -6829,7 +7083,8 @@
           48.8672657,
           2.3765162
         ],
-        "address_clean": "82 rue Jean Pierre Timbaud, Paris 75011"
+        "address_clean": "82 rue Jean Pierre Timbaud, Paris 75011",
+        "url": "http://parisbymouth.com/6036-restaurant/"
       }
     },
     {
@@ -6856,7 +7111,8 @@
           48.8573693,
           2.3785021
         ],
-        "address_clean": " 87 Rue de la Roquette, Paris 75011"
+        "address_clean": " 87 Rue de la Roquette, Paris 75011",
+        "url": "http://parisbymouth.com/a-la-renaissace/"
       }
     },
     {
@@ -6883,7 +7139,8 @@
           48.86614059999999,
           2.3720156
         ],
-        "address_clean": "44 rue Jean-Pierre Timbaud"
+        "address_clean": "44 rue Jean-Pierre Timbaud",
+        "url": "http://parisbymouth.com/astier/"
       }
     },
     {
@@ -6909,7 +7166,8 @@
           48.8616414,
           2.3686658
         ],
-        "address_clean": "1 bis passage de Saint-Sebastien, Paris 75011"
+        "address_clean": "1 bis passage de Saint-Sebastien, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-au-passage/"
       }
     },
     {
@@ -6936,7 +7194,8 @@
           48.8645978,
           2.3718683
         ],
-        "address_clean": " 45 rue Oberkampf, Paris 75011"
+        "address_clean": " 45 rue Oberkampf, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-aux-deux-amis/"
       }
     },
     {
@@ -6963,7 +7222,8 @@
           48.8522042,
           2.38508
         ],
-        "address_clean": "18 rue Paul Bert, Paris 75011"
+        "address_clean": "18 rue Paul Bert, Paris 75011",
+        "url": "http://parisbymouth.com/bistrot-paul-bert/"
       }
     },
     {
@@ -6990,7 +7250,8 @@
           48.8674291,
           2.3702413
         ],
-        "address_clean": "13 rue de la Pierre Levée, Paris 75011"
+        "address_clean": "13 rue de la Pierre Levée, Paris 75011",
+        "url": "http://parisbymouth.com/blue-valentine/"
       }
     },
     {
@@ -7016,7 +7277,8 @@
           48.8565962,
           2.3798813
         ],
-        "address_clean": "43 rue Godefroy Caviagnac, Paris 75011"
+        "address_clean": "43 rue Godefroy Caviagnac, Paris 75011",
+        "url": "http://parisbymouth.com/bones-paris/"
       }
     },
     {
@@ -7043,7 +7305,8 @@
           48.8505692,
           2.3796478
         ],
-        "address_clean": "159 rue du Faubourg St. Antoine, Paris 75011"
+        "address_clean": "159 rue du Faubourg St. Antoine, Paris 75011",
+        "url": "http://parisbymouth.com/caffe-dei-cioppi/"
       }
     },
     {
@@ -7069,7 +7332,8 @@
           48.8571274,
           2.3784078
         ],
-        "address_clean": "85 rue de la Roquette, Paris 75011"
+        "address_clean": "85 rue de la Roquette, Paris 75011",
+        "url": "http://parisbymouth.com/chez-aline/"
       }
     },
     {
@@ -7094,7 +7358,8 @@
           48.8535737,
           2.3806897
         ],
-        "address_clean": " 80 rue de Charonne, Paris 75011"
+        "address_clean": " 80 rue de Charonne, Paris 75011",
+        "url": "http://parisbymouth.com/clamato-paris-septime/"
       }
     },
     {
@@ -7121,7 +7386,8 @@
           48.8636036,
           2.3672314
         ],
-        "address_clean": "114 rue Amelot, Paris 75011"
+        "address_clean": "114 rue Amelot, Paris 75011",
+        "url": "http://parisbymouth.com/clown-bar/"
       }
     },
     {
@@ -7148,7 +7414,8 @@
           48.8586538,
           2.3820841
         ],
-        "address_clean": " 7 rue Pache, Paris 75011"
+        "address_clean": " 7 rue Pache, Paris 75011",
+        "url": "http://parisbymouth.com/come-a-casa/"
       }
     },
     {
@@ -7175,7 +7442,8 @@
           48.8615568,
           2.370674
         ],
-        "address_clean": "33 rue Saint Sébastien, Paris 75011"
+        "address_clean": "33 rue Saint Sébastien, Paris 75011",
+        "url": "http://parisbymouth.com/deux-fois-plus-de-piment/"
       }
     },
     {
@@ -7202,7 +7470,8 @@
           48.86516,
           2.382025
         ],
-        "address_clean": " 22 rue Crespin du Gast, Paris 75011"
+        "address_clean": " 22 rue Crespin du Gast, Paris 75011",
+        "url": "http://parisbymouth.com/freddies-deli/"
       }
     },
     {
@@ -7229,7 +7498,8 @@
           48.8661186,
           2.3718993
         ],
-        "address_clean": "42 rue Jean-Pierre Timbaud, Paris 75011"
+        "address_clean": "42 rue Jean-Pierre Timbaud, Paris 75011",
+        "url": "http://parisbymouth.com/jeanne-a/"
       }
     },
     {
@@ -7256,7 +7526,8 @@
           48.8582294,
           2.3719139
         ],
-        "address_clean": "44 boulevard Richard Lenoir, Paris 75011"
+        "address_clean": "44 boulevard Richard Lenoir, Paris 75011",
+        "url": "http://parisbymouth.com/lauberge-flora/"
       }
     },
     {
@@ -7283,7 +7554,8 @@
           48.85242650000001,
           2.3850524
         ],
-        "address_clean": "22 rue Paul Bert, Paris 75011"
+        "address_clean": "22 rue Paul Bert, Paris 75011",
+        "url": "http://parisbymouth.com/lecailler-du-bistrot/"
       }
     },
     {
@@ -7309,7 +7581,8 @@
           48.85473649999999,
           2.3819746
         ],
-        "address_clean": "11 rue Richard Lenoir, Paris 75011"
+        "address_clean": "11 rue Richard Lenoir, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-pulperia/"
       }
     },
     {
@@ -7335,7 +7608,8 @@
           48.8513367,
           2.3846857
         ],
-        "address_clean": "6 rue Paul Bert, Paris 75011"
+        "address_clean": "6 rue Paul Bert, Paris 75011",
+        "url": "http://parisbymouth.com/le-six-paul-bert-paris-restaurant/"
       }
     },
     {
@@ -7362,7 +7636,8 @@
           48.85277370000001,
           2.3850379
         ],
-        "address_clean": "1 rue Jules Vallès, Paris 75011"
+        "address_clean": "1 rue Jules Vallès, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-chardenoux/"
       }
     },
     {
@@ -7388,7 +7663,8 @@
           48.8693391,
           2.3712615
         ],
-        "address_clean": "129 Avenue Parmentier, Paris 75011"
+        "address_clean": "129 Avenue Parmentier, Paris 75011",
+        "url": "http://parisbymouth.com/le-chateaubriand/"
       }
     },
     {
@@ -7415,7 +7691,8 @@
           48.869447,
           2.3711154
         ],
-        "address_clean": "131 avenue Parmentier, Paris 75011"
+        "address_clean": "131 avenue Parmentier, Paris 75011",
+        "url": "http://parisbymouth.com/our-paris-guide-le-dauphin/"
       }
     },
     {
@@ -7441,7 +7718,8 @@
           48.8654569,
           2.3820249
         ],
-        "address_clean": " 14 rue Crespin-du-Gast, Paris 75011"
+        "address_clean": " 14 rue Crespin-du-Gast, Paris 75011",
+        "url": "http://parisbymouth.com/le-perchoir/"
       }
     },
     {
@@ -7468,7 +7746,8 @@
           48.861117,
           2.3674861
         ],
-        "address_clean": "8 boulevard des Filles du Calvaire, Paris 75011"
+        "address_clean": "8 boulevard des Filles du Calvaire, Paris 75011",
+        "url": "http://parisbymouth.com/le-repaire-de-cartouche/"
       }
     },
     {
@@ -7494,7 +7773,8 @@
           48.8609891,
           2.3813876
         ],
-        "address_clean": "32 rue Saint Maur, Paris 75011"
+        "address_clean": "32 rue Saint Maur, Paris 75011",
+        "url": "http://parisbymouth.com/le-servan/%20?"
       }
     },
     {
@@ -7521,7 +7801,8 @@
           48.8541035,
           2.3954419
         ],
-        "address_clean": "70 rue Alexandre Dumas, Paris 75011"
+        "address_clean": "70 rue Alexandre Dumas, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-sot-ly-laisse/"
       }
     },
     {
@@ -7548,7 +7829,8 @@
           48.8523649,
           2.379242
         ],
-        "address_clean": "</strong>46 rue Trousseau, Paris 75011"
+        "address_clean": "</strong>46 rue Trousseau, Paris 75011",
+        "url": "http://parisbymouth.com/les-deserteurs/"
       }
     },
     {
@@ -7575,7 +7857,8 @@
           48.8522421,
           2.379231700000001
         ],
-        "address_clean": "44 rue Trousseau, Paris 75011"
+        "address_clean": "44 rue Trousseau, Paris 75011",
+        "url": "http://parisbymouth.com/pizza-dei-cioppi/"
       }
     },
     {
@@ -7602,7 +7885,8 @@
           48.8590467,
           2.3684357
         ],
-        "address_clean": "50 rue Amelot, Paris 75011"
+        "address_clean": "50 rue Amelot, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-qui-plume-la-lune/"
       }
     },
     {
@@ -7629,7 +7913,8 @@
           48.8647784,
           2.3722958
         ],
-        "address_clean": "55 rue Oberkampf, Paris 75011"
+        "address_clean": "55 rue Oberkampf, Paris 75011",
+        "url": "http://parisbymouth.com/restaurant-pierre-sang-boyer/"
       }
     },
     {
@@ -7656,7 +7941,8 @@
           48.85132120000001,
           2.3816953
         ],
-        "address_clean": "12 rue Saint-Bernard, Paris 75011"
+        "address_clean": "12 rue Saint-Bernard, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-retrobottega/"
       }
     },
     {
@@ -7682,7 +7968,8 @@
           48.8660368,
           2.3718414
         ],
-        "address_clean": "40 rue Jean-Pierre Timbaud, Paris 75011"
+        "address_clean": "40 rue Jean-Pierre Timbaud, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-sassotondo/"
       }
     },
     {
@@ -7709,7 +7996,8 @@
           48.8535737,
           2.3806897
         ],
-        "address_clean": "80 rue de Charonne, Paris 75011"
+        "address_clean": "80 rue de Charonne, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-septime/"
       }
     },
     {
@@ -7736,7 +8024,8 @@
           48.86811669999999,
           2.3702583
         ],
-        "address_clean": "20 rue de la Pierre Levée, Paris 75011"
+        "address_clean": "20 rue de la Pierre Levée, Paris 75011",
+        "url": "http://parisbymouth.com/our-guide-to-paris-soya/"
       }
     },
     {
@@ -7763,7 +8052,8 @@
           48.8503775,
           2.3905789
         ],
-        "address_clean": "19 rue des Boulets, Paris 75011"
+        "address_clean": "19 rue des Boulets, Paris 75011",
+        "url": "http://parisbymouth.com/the-green-goose/"
       }
     },
     {
@@ -7790,7 +8080,8 @@
           48.8632384,
           2.3774557
         ],
-        "address_clean": "6 passage Saint-Ambroise Paris 75011"
+        "address_clean": "6 passage Saint-Ambroise Paris 75011",
+        "url": "http://parisbymouth.com/west-county-girl/"
       }
     },
     {
@@ -7817,7 +8108,8 @@
           48.8581389,
           2.3883165
         ],
-        "address_clean": "6 Rue de Mont-Louis, Paris 75011"
+        "address_clean": "6 Rue de Mont-Louis, Paris 75011",
+        "url": "http://parisbymouth.com/yard/"
       }
     },
     {
@@ -7844,7 +8136,8 @@
           48.848204,
           2.3706142
         ],
-        "address_clean": "45 avenue Ledru-Rollin, Paris 75012"
+        "address_clean": "45 avenue Ledru-Rollin, Paris 75012",
+        "url": "http://parisbymouth.com/our-guide-to-paris-a-la-biche-au-bois/"
       }
     },
     {
@@ -7871,7 +8164,8 @@
           48.83602880000001,
           2.3858318
         ],
-        "address_clean": "4 rue de Bercy, Paris 75012"
+        "address_clean": "4 rue de Bercy, Paris 75012",
+        "url": "http://parisbymouth.com/cafe-cartouche/"
       }
     },
     {
@@ -7898,7 +8192,8 @@
           48.8501852,
           2.3779651
         ],
-        "address_clean": "29 rue de Cotte, Paris 75012"
+        "address_clean": "29 rue de Cotte, Paris 75012",
+        "url": "http://parisbymouth.com/la-gazzetta/"
       }
     },
     {
@@ -7925,7 +8220,8 @@
           48.84941600000001,
           2.3774463
         ],
-        "address_clean": "1 rue Théophile Roussel, Paris 75012"
+        "address_clean": "1 rue Théophile Roussel, Paris 75012",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-baron-rouge/"
       }
     },
     {
@@ -7951,7 +8247,8 @@
           48.84769259999999,
           2.3773543
         ],
-        "address_clean": "97 rue de Charenton, Paris 75012"
+        "address_clean": "97 rue de Charenton, Paris 75012",
+        "url": "http://parisbymouth.com/shan-gout/"
       }
     },
     {
@@ -7978,7 +8275,8 @@
           48.8487648,
           2.3757585
         ],
-        "address_clean": "3 rue de Prague, Paris 75012"
+        "address_clean": "3 rue de Prague, Paris 75012",
+        "url": "http://parisbymouth.com/table/"
       }
     },
     {
@@ -8005,7 +8303,8 @@
           48.8495858,
           2.3790915
         ],
-        "address_clean": "75 rue Crozatier, Paris 75012"
+        "address_clean": "75 rue Crozatier, Paris 75012",
+        "url": "http://parisbymouth.com/will/"
       }
     },
     {
@@ -8032,7 +8331,8 @@
           48.8366924,
           2.3497831
         ],
-        "address_clean": "9 boulevard de Port Royal, Paris 75013"
+        "address_clean": "9 boulevard de Port Royal, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-au-petit-marguery/"
       }
     },
     {
@@ -8059,7 +8359,8 @@
           48.8371326,
           2.3590007
         ],
-        "address_clean": "88 boulevard de l’Hôpital, Paris 75013"
+        "address_clean": "88 boulevard de l’Hôpital, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-delices-de-shandong/"
       }
     },
     {
@@ -8086,7 +8387,8 @@
           48.83299820000001,
           2.3611349
         ],
-        "address_clean": " 136 boulevard Vincent Auriol, Paris 75013"
+        "address_clean": " 136 boulevard Vincent Auriol, Paris 75013",
+        "url": "http://parisbymouth.com/green-pizz/"
       }
     },
     {
@@ -8113,7 +8415,8 @@
           48.837196,
           2.3420331
         ],
-        "address_clean": "15 rue de la Santé, Paris 75013"
+        "address_clean": "15 rue de la Santé, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lauberge-du-15/"
       }
     },
     {
@@ -8140,7 +8443,8 @@
           48.8352437,
           2.3462603
         ],
-        "address_clean": "36 boulevard Arago, Paris 75013"
+        "address_clean": "36 boulevard Arago, Paris 75013",
+        "url": "http://parisbymouth.com/lauberge-du-roi-gradlon/"
       }
     },
     {
@@ -8167,7 +8471,8 @@
           48.82897579999999,
           2.3531374
         ],
-        "address_clean": "26 rue Bobillot, Paris 75013"
+        "address_clean": "26 rue Bobillot, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lavant-gout/"
       }
     },
     {
@@ -8194,7 +8499,8 @@
           48.8358457,
           2.3461639
         ],
-        "address_clean": "92 rue Broca, Paris 75013"
+        "address_clean": "92 rue Broca, Paris 75013",
+        "url": "http://parisbymouth.com/lourcine/"
       }
     },
     {
@@ -8221,7 +8527,8 @@
           48.8256138,
           2.3614233
         ],
-        "address_clean": "102 avenue d’Ivry, Paris 75013"
+        "address_clean": "102 avenue d’Ivry, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lao-lane-xang-2/"
       }
     },
     {
@@ -8248,7 +8555,8 @@
           48.822198,
           2.3625992
         ],
-        "address_clean": "39 avenue de Choisy, Paris 75013"
+        "address_clean": "39 avenue de Choisy, Paris 75013",
+        "url": "http://parisbymouth.com/likafo/"
       }
     },
     {
@@ -8275,7 +8583,8 @@
           48.8406982,
           2.3695466
         ],
-        "address_clean": " 36 quai d’Austerlitz, Paris 75013"
+        "address_clean": " 36 quai d’Austerlitz, Paris 75013",
+        "url": "http://parisbymouth.com/nuba/"
       }
     },
     {
@@ -8302,7 +8611,8 @@
           48.8264404,
           2.3594671
         ],
-        "address_clean": "129 avenue de Choisy, Paris 75013"
+        "address_clean": "129 avenue de Choisy, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-pho-14/"
       }
     },
     {
@@ -8328,7 +8638,8 @@
           48.83538069999999,
           2.3479377
         ],
-        "address_clean": " 33 Boulevard Arago, Paris 75013"
+        "address_clean": " 33 Boulevard Arago, Paris 75013",
+        "url": "http://parisbymouth.com/simone/"
       }
     },
     {
@@ -8355,7 +8666,8 @@
           48.82096869999999,
           2.3639815
         ],
-        "address_clean": "15 avenue de Choisy, Paris 75013"
+        "address_clean": "15 avenue de Choisy, Paris 75013",
+        "url": "http://parisbymouth.com/our-guide-to-paris-tricotin/"
       }
     },
     {
@@ -8382,7 +8694,8 @@
           48.8416679,
           2.3254674
         ],
-        "address_clean": "67 rue du Montparnasse, Paris 75014"
+        "address_clean": "67 rue du Montparnasse, Paris 75014",
+        "url": "http://parisbymouth.com/creperie-josselin/"
       }
     },
     {
@@ -8409,7 +8722,8 @@
           48.8322207,
           2.3278346
         ],
-        "address_clean": "45 rue Boulard, Paris 75014"
+        "address_clean": "45 rue Boulard, Paris 75014",
+        "url": "http://parisbymouth.com/our-guide-to-paris-jeu-de-quilles/"
       }
     },
     {
@@ -8436,7 +8750,8 @@
           48.8333681,
           2.3240175
         ],
-        "address_clean": "181 rue du Château, Paris 75014"
+        "address_clean": "181 rue du Château, Paris 75014",
+        "url": "http://parisbymouth.com/lassiette/"
       }
     },
     {
@@ -8462,7 +8777,8 @@
           48.8341056,
           2.3159102
         ],
-        "address_clean": "101 rue de l’Ouest, Paris 75014"
+        "address_clean": "101 rue de l’Ouest, Paris 75014",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-cantine-du-troquet/"
       }
     },
     {
@@ -8489,7 +8805,8 @@
           48.8418728,
           2.3236359
         ],
-        "address_clean": "70 boulevard Edgar-Quinet, Paris 75014"
+        "address_clean": "70 boulevard Edgar-Quinet, Paris 75014",
+        "url": "http://parisbymouth.com/la-cerisaie/"
       }
     },
     {
@@ -8516,7 +8833,8 @@
           48.8248191,
           2.3204417
         ],
-        "address_clean": "49 Avenue Jean Moulin, Paris 75014"
+        "address_clean": "49 Avenue Jean Moulin, Paris 75014",
+        "url": "http://parisbymouth.com/la-regalade/"
       }
     },
     {
@@ -8543,7 +8861,8 @@
           48.8418769,
           2.329552
         ],
-        "address_clean": "1 rue Delambre, Paris 75014"
+        "address_clean": "1 rue Delambre, Paris 75014",
+        "url": "http://parisbymouth.com/le-bistrot-du-dome/"
       }
     },
     {
@@ -8570,7 +8889,8 @@
           48.834125,
           2.3261041
         ],
-        "address_clean": "34 rue Gassendi, Paris 75014"
+        "address_clean": "34 rue Gassendi, Paris 75014",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-cornichon/"
       }
     },
     {
@@ -8597,7 +8917,8 @@
           48.84242709999999,
           2.3282247
         ],
-        "address_clean": "108 boulevard du Montparnasse, Paris 75014"
+        "address_clean": "108 boulevard du Montparnasse, Paris 75014",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-dome/"
       }
     },
     {
@@ -8624,7 +8945,8 @@
           48.8319902,
           2.3244947
         ],
-        "address_clean": "8 rue des Plantes, Paris 75014"
+        "address_clean": "8 rue des Plantes, Paris 75014",
+        "url": "http://parisbymouth.com/le-severo/"
       }
     },
     {
@@ -8651,7 +8973,8 @@
           48.8408086,
           2.2867002
         ],
-        "address_clean": "54 avenue Félix Faure, Paris 75015"
+        "address_clean": "54 avenue Félix Faure, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-axuria/"
       }
     },
     {
@@ -8678,7 +9001,8 @@
           48.8421475,
           2.3219837
         ],
-        "address_clean": "33 avenue du Maine , Paris 75015"
+        "address_clean": "33 avenue du Maine , Paris 75015",
+        "url": "http://parisbymouth.com/ciel-de-paris/"
       }
     },
     {
@@ -8705,7 +9029,8 @@
           48.8372929,
           2.2893146
         ],
-        "address_clean": "208 rue de la Croix Nivert, Paris 75015"
+        "address_clean": "208 rue de la Croix Nivert, Paris 75015",
+        "url": "http://parisbymouth.com/jadis/"
       }
     },
     {
@@ -8732,7 +9057,8 @@
           48.8432781,
           2.3200189
         ],
-        "address_clean": "4 rue Antoine-Bourdelle, Paris 75015"
+        "address_clean": "4 rue Antoine-Bourdelle, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-cabane-a-huitres/"
       }
     },
     {
@@ -8758,7 +9084,8 @@
           48.8514023,
           2.2922836
         ],
-        "address_clean": " 53 boulevard de Grenelle, Paris 75015"
+        "address_clean": " 53 boulevard de Grenelle, Paris 75015",
+        "url": "http://parisbymouth.com/la-cantine-du-troquet-dupleix/"
       }
     },
     {
@@ -8785,7 +9112,8 @@
           48.8531166,
           2.2952139
         ],
-        "address_clean": "56 rue de la Fédération, Paris 75015"
+        "address_clean": "56 rue de la Fédération, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-casse-noix/"
       }
     },
     {
@@ -8812,7 +9140,8 @@
           48.8425889,
           2.3134679
         ],
-        "address_clean": "41 boulevard Pasteur, Paris 75015"
+        "address_clean": "41 boulevard Pasteur, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lepicuriste/"
       }
     },
     {
@@ -8839,7 +9168,8 @@
           48.8330364,
           2.3055801
         ],
-        "address_clean": "20 rue Rosenwald, Paris 75015"
+        "address_clean": "20 rue Rosenwald, Paris 75015",
+        "url": "http://parisbymouth.com/le-grand-pan/"
       }
     },
     {
@@ -8866,7 +9196,8 @@
           48.8414302,
           2.3084699
         ],
-        "address_clean": "225 rue de Vaugirard, Paris 75015"
+        "address_clean": "225 rue de Vaugirard, Paris 75015",
+        "url": "http://parisbymouth.com/le-marcab/"
       }
     },
     {
@@ -8893,7 +9224,8 @@
           48.845773,
           2.2829738
         ],
-        "address_clean": " 54 avenue Emile-Zola, Paris 75015"
+        "address_clean": " 54 avenue Emile-Zola, Paris 75015",
+        "url": "http://parisbymouth.com/le-pario/"
       }
     },
     {
@@ -8920,7 +9252,8 @@
           48.841563,
           2.2911693
         ],
-        "address_clean": " 165 rue de Javel, Paris 75015"
+        "address_clean": " 165 rue de Javel, Paris 75015",
+        "url": "http://parisbymouth.com/?p=43434"
       }
     },
     {
@@ -8947,7 +9280,8 @@
           48.838127,
           2.2816746
         ],
-        "address_clean": "3 rue Vasco de Gama, Paris 75015"
+        "address_clean": "3 rue Vasco de Gama, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-schmidt-los-a-moelle/"
       }
     },
     {
@@ -8974,7 +9308,8 @@
           48.8406798,
           2.3153902
         ],
-        "address_clean": "52 boulevard de Vaugirard, Paris 75015"
+        "address_clean": "52 boulevard de Vaugirard, Paris 75015",
+        "url": "http://parisbymouth.com/our-guide-to-paris-ty-breiz/"
       }
     },
     {
@@ -9001,7 +9336,8 @@
           48.8714325,
           2.2924576
         ],
-        "address_clean": "19 rue Lauriston, Paris 75016"
+        "address_clean": "19 rue Lauriston, Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-akrame/"
       }
     },
     {
@@ -9027,7 +9363,8 @@
           48.8588991,
           2.2783511
         ],
-        "address_clean": "31 rue Vital, Paris 75016"
+        "address_clean": "31 rue Vital, Paris 75016",
+        "url": "http://parisbymouth.com/chez-geraud/"
       }
     },
     {
@@ -9054,7 +9391,8 @@
           48.8657829,
           2.2907287
         ],
-        "address_clean": " 14 rue du Bouquet de Longchamp, Paris 75016"
+        "address_clean": " 14 rue du Bouquet de Longchamp, Paris 75016",
+        "url": "http://parisbymouth.com/etude/"
       }
     },
     {
@@ -9081,7 +9419,8 @@
           48.86391949999999,
           2.2933561
         ],
-        "address_clean": "10 avenue d’Iéna, Paris 75016"
+        "address_clean": "10 avenue d’Iéna, Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-labeille/"
       }
     },
     {
@@ -9108,7 +9447,8 @@
           48.8583784,
           2.2875713
         ],
-        "address_clean": "4 rue Beethoven, Paris 75016"
+        "address_clean": "4 rue Beethoven, Paris 75016",
+        "url": "http://parisbymouth.com/lastrance/"
       }
     },
     {
@@ -9135,7 +9475,8 @@
           48.86244019999999,
           2.2491727
         ],
-        "address_clean": "Allée de Longchamp – in the Bois de Boulogne, Paris 75016"
+        "address_clean": "Allée de Longchamp – in the Bois de Boulogne, Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-la-grande-cascade/"
       }
     },
     {
@@ -9162,7 +9503,8 @@
           48.8702145,
           2.2832474
         ],
-        "address_clean": "16 avenue Bugeaud, Paris 75016"
+        "address_clean": "16 avenue Bugeaud, Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-les-tablettes/"
       }
     },
     {
@@ -9188,7 +9530,8 @@
           48.8710605,
           2.2933537
         ],
-        "address_clean": "19 Avenue Kléber, Paris 75016"
+        "address_clean": "19 Avenue Kléber, Paris 75016",
+        "url": "http://parisbymouth.com/?p=54568"
       }
     },
     {
@@ -9215,7 +9558,8 @@
           48.8617307,
           2.2780461
         ],
-        "address_clean": "79 rue de la Tour, Paris 75016"
+        "address_clean": "79 rue de la Tour, Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-mets-gusto/"
       }
     },
     {
@@ -9242,7 +9586,8 @@
           48.86391949999999,
           2.2933561
         ],
-        "address_clean": "10 avenue Iéna , Paris 75016"
+        "address_clean": "10 avenue Iéna , Paris 75016",
+        "url": "http://parisbymouth.com/our-guide-to-paris-shang-palace/"
       }
     },
     {
@@ -9269,7 +9614,8 @@
           48.8825704,
           2.2959852
         ],
-        "address_clean": "75 avenue Niel, Paris 75017"
+        "address_clean": "75 avenue Niel, Paris 75017",
+        "url": "http://parisbymouth.com/our-guide-to-paris-agape-bistrot/"
       }
     },
     {
@@ -9296,7 +9642,8 @@
           48.888831,
           2.3200562
         ],
-        "address_clean": "86 rue Lemercier, Paris 75017"
+        "address_clean": "86 rue Lemercier, Paris 75017",
+        "url": "http://parisbymouth.com/our-guide-to-paris-atao/"
       }
     },
     {
@@ -9323,7 +9670,8 @@
           48.889683,
           2.316449
         ],
-        "address_clean": "151 bis rue Cardinet, Paris 75017"
+        "address_clean": "151 bis rue Cardinet, Paris 75017",
+        "url": "http://parisbymouth.com/coretta-2/"
       }
     },
     {
@@ -9350,7 +9698,8 @@
           48.8796995,
           2.2943243
         ],
-        "address_clean": "25 rue Bayen, Paris 75017"
+        "address_clean": "25 rue Bayen, Paris 75017",
+        "url": "http://parisbymouth.com/frederic-simonin/"
       }
     },
     {
@@ -9377,7 +9726,8 @@
           48.876328,
           2.2952667
         ],
-        "address_clean": "18 rue Troyon, Paris 75017"
+        "address_clean": "18 rue Troyon, Paris 75017",
+        "url": "http://parisbymouth.com/guy-savoy/"
       }
     },
     {
@@ -9404,7 +9754,8 @@
           48.8846894,
           2.2913272
         ],
-        "address_clean": "83 rue Laugier, Paris 75017"
+        "address_clean": "83 rue Laugier, Paris 75017",
+        "url": "http://parisbymouth.com/lentredgeu/"
       }
     },
     {
@@ -9431,7 +9782,8 @@
           48.8797818,
           2.2962508
         ],
-        "address_clean": "16 rue Saussier-Leroy, Paris 75017"
+        "address_clean": "16 rue Saussier-Leroy, Paris 75017",
+        "url": "http://parisbymouth.com/our-guide-to-paris-lhuitrier/"
       }
     },
     {
@@ -9458,7 +9810,8 @@
           48.8876312,
           2.3103344
         ],
-        "address_clean": "30 rue du Printemps, Paris 75017"
+        "address_clean": "30 rue du Printemps, Paris 75017",
+        "url": "http://parisbymouth.com/la-fourchette-du-printemps/"
       }
     },
     {
@@ -9485,7 +9838,8 @@
           48.8863852,
           2.312419
         ],
-        "address_clean": "127 rue Cardinet, Paris 75017"
+        "address_clean": "127 rue Cardinet, Paris 75017",
+        "url": "http://parisbymouth.com/le-bouchon-et-lassiette/"
       }
     },
     {
@@ -9512,7 +9866,8 @@
           48.87623199999999,
           2.2907743
         ],
-        "address_clean": "16 rue des Acacias, Paris 75017"
+        "address_clean": "16 rue des Acacias, Paris 75017",
+        "url": "http://parisbymouth.com/le-crabe-marteau/"
       }
     },
     {
@@ -9539,7 +9894,8 @@
           48.87720969999999,
           2.2927457
         ],
-        "address_clean": "42 rue des Acacias, Paris 75017"
+        "address_clean": "42 rue des Acacias, Paris 75017",
+        "url": "http://parisbymouth.com/le-dodin/"
       }
     },
     {
@@ -9566,7 +9922,8 @@
           48.8889039,
           2.3184604
         ],
-        "address_clean": "106 rue Nollet, Paris 75017"
+        "address_clean": "106 rue Nollet, Paris 75017",
+        "url": "http://parisbymouth.com/lenvie-du-jour"
       }
     },
     {
@@ -9593,7 +9950,8 @@
           48.8797534,
           2.2942528
         ],
-        "address_clean": "10 rue Villebois-Mareuil, Paris 75017"
+        "address_clean": "10 rue Villebois-Mareuil, Paris 75017",
+        "url": "http://parisbymouth.com/les-fougeres/"
       }
     },
     {
@@ -9620,7 +9978,8 @@
           48.8794516,
           2.2918121
         ],
-        "address_clean": "62 avenue des Ternes, Paris 75017"
+        "address_clean": "62 avenue des Ternes, Paris 75017",
+        "url": "http://parisbymouth.com/our-guide-to-paris-rech/"
       }
     },
     {
@@ -9647,7 +10006,8 @@
           48.8848837,
           2.2950957
         ],
-        "address_clean": " 31 rue Guillaume-Tell, Paris 75017"
+        "address_clean": " 31 rue Guillaume-Tell, Paris 75017",
+        "url": "http://parisbymouth.com/roca/"
       }
     },
     {
@@ -9674,7 +10034,8 @@
           48.8868764,
           2.3445768
         ],
-        "address_clean": " 10 rue Lamarck, Paris 75018"
+        "address_clean": " 10 rue Lamarck, Paris 75018",
+        "url": "http://parisbymouth.com/au-clocher-de-montmartre/"
       }
     },
     {
@@ -9700,7 +10061,8 @@
           48.891305,
           2.3529867
         ],
-        "address_clean": "Halle Pajol, 12 esplanade Nathalie Sarraute , Paris 75018"
+        "address_clean": "Halle Pajol, 12 esplanade Nathalie Sarraute , Paris 75018",
+        "url": "http://parisbymouth.com/bobs-bake-shop/"
       }
     },
     {
@@ -9727,7 +10089,8 @@
           48.8909881,
           2.3396162
         ],
-        "address_clean": "20 rue de la Fontaine du But, Paris 75018"
+        "address_clean": "20 rue de la Fontaine du But, Paris 75018",
+        "url": "http://parisbymouth.com/bululu/"
       }
     },
     {
@@ -9754,7 +10117,8 @@
           48.88579379999999,
           2.3364512
         ],
-        "address_clean": "6 rue Burq, Paris 75018"
+        "address_clean": "6 rue Burq, Paris 75018",
+        "url": "http://parisbymouth.com/cafe-burq/"
       }
     },
     {
@@ -9781,7 +10145,8 @@
           48.8894022,
           2.3420612
         ],
-        "address_clean": "52 rue Lamarck, Paris 75018"
+        "address_clean": "52 rue Lamarck, Paris 75018",
+        "url": "http://parisbymouth.com/chamarre-montmartre/"
       }
     },
     {
@@ -9808,7 +10173,8 @@
           48.8855758,
           2.3458463
         ],
-        "address_clean": "15 rue André del Sarte, Paris 75018"
+        "address_clean": "15 rue André del Sarte, Paris 75018",
+        "url": "http://parisbymouth.com/cheri-bibi/"
       }
     },
     {
@@ -9834,7 +10200,8 @@
           48.88603819999999,
           2.3370828
         ],
-        "address_clean": "8 rue Garreau, Paris 75018"
+        "address_clean": "8 rue Garreau, Paris 75018",
+        "url": "http://parisbymouth.com/guilo-guilo/"
       }
     },
     {
@@ -9861,7 +10228,8 @@
           48.8921354,
           2.3401161
         ],
-        "address_clean": " 14 rue du Ruisseau, Paris 75018"
+        "address_clean": " 14 rue du Ruisseau, Paris 75018",
+        "url": "http://parisbymouth.com/il-brigante/"
       }
     },
     {
@@ -9888,7 +10256,8 @@
           48.8878311,
           2.3345166
         ],
-        "address_clean": "61 rue Lepic, Paris 75018"
+        "address_clean": "61 rue Lepic, Paris 75018",
+        "url": "http://parisbymouth.com/jeanne-b/"
       }
     },
     {
@@ -9915,7 +10284,8 @@
           48.8910288,
           2.3471354
         ],
-        "address_clean": "18 rue Eugène Sue, Paris 75018"
+        "address_clean": "18 rue Eugène Sue, Paris 75018",
+        "url": "http://parisbymouth.com/la-table-deugene/"
       }
     },
     {
@@ -9941,7 +10311,8 @@
           48.8909235,
           2.3470229
         ],
-        "address_clean": " 16 rue Eugène-Sue, Paris 75018"
+        "address_clean": " 16 rue Eugène-Sue, Paris 75018",
+        "url": "http://parisbymouth.com/la-rallonge/"
       }
     },
     {
@@ -9968,7 +10339,8 @@
           48.88526830000001,
           2.3273229
         ],
-        "address_clean": "6 impasse de la Défense, Paris 75018"
+        "address_clean": "6 impasse de la Défense, Paris 75018",
+        "url": "http://parisbymouth.com/le-bal-cafe/"
       }
     },
     {
@@ -9995,7 +10367,8 @@
           48.8823422,
           2.3398692
         ],
-        "address_clean": " 124 boulevard de Rochechouart, Paris 75018"
+        "address_clean": " 124 boulevard de Rochechouart, Paris 75018",
+        "url": "http://parisbymouth.com/la-cantine-de-la-cigale/"
       }
     },
     {
@@ -10022,7 +10395,8 @@
           48.8871536,
           2.3370104
         ],
-        "address_clean": "98 rue Lepic, Paris 75018"
+        "address_clean": "98 rue Lepic, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-coq-rico/"
       }
     },
     {
@@ -10049,7 +10423,8 @@
           48.8867474,
           2.3444867
         ],
-        "address_clean": "8 rue Lamarck, Paris 75018"
+        "address_clean": "8 rue Lamarck, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-grand-8/"
       }
     },
     {
@@ -10076,7 +10451,8 @@
           48.88286129999999,
           2.3431004
         ],
-        "address_clean": "80 boulevard de Rochechouart, Paris 75018"
+        "address_clean": "80 boulevard de Rochechouart, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-petit-trianon/"
       }
     },
     {
@@ -10103,7 +10479,8 @@
           48.88843070000001,
           2.3353118
         ],
-        "address_clean": "1 villa Léandre, Paris 75018"
+        "address_clean": "1 villa Léandre, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-marcel/"
       }
     },
     {
@@ -10130,7 +10507,8 @@
           48.8839997,
           2.3398951
         ],
-        "address_clean": "94 rue des Martyrs, Paris 75018"
+        "address_clean": "94 rue des Martyrs, Paris 75018",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-miroir/"
       }
     },
     {
@@ -10157,7 +10535,8 @@
           48.8879585,
           2.3910173
         ],
-        "address_clean": "188 avenue Jean-Jaurès, Paris 75019"
+        "address_clean": "188 avenue Jean-Jaurès, Paris 75019",
+        "url": "http://parisbymouth.com/au-boeuf-couronne/"
       }
     },
     {
@@ -10183,7 +10562,8 @@
           48.87365579999999,
           2.3827699
         ],
-        "address_clean": "92 rue Rébeval, Paris 75019"
+        "address_clean": "92 rue Rébeval, Paris 75019",
+        "url": "http://parisbymouth.com/le-chapeau-melon/"
       }
     },
     {
@@ -10210,7 +10590,8 @@
           48.8788719,
           2.3895857
         ],
-        "address_clean": "35 rue des Annelets, Paris 75019"
+        "address_clean": "35 rue des Annelets, Paris 75019",
+        "url": "http://parisbymouth.com/our-guide-to-paris-o-divin/"
       }
     },
     {
@@ -10237,7 +10618,8 @@
           48.8781696,
           2.3843435
         ],
-        "address_clean": "22 rue du Plateau, Paris 75019"
+        "address_clean": "22 rue du Plateau, Paris 75019",
+        "url": "http://parisbymouth.com/our-guide-to-paris-quedubon/"
       }
     },
     {
@@ -10264,7 +10646,8 @@
           48.8671419,
           2.385277
         ],
-        "address_clean": "6 rue Victor Letalle, Paris 75020"
+        "address_clean": "6 rue Victor Letalle, Paris 75020",
+        "url": "http://parisbymouth.com/our-guide-to-paris-chatomat/"
       }
     },
     {
@@ -10291,7 +10674,8 @@
           48.8731293,
           2.3829178
         ],
-        "address_clean": "3 rue Jouye-Rouve, Paris 75020"
+        "address_clean": "3 rue Jouye-Rouve, Paris 75020",
+        "url": "http://parisbymouth.com/le-baratin-2/"
       }
     },
     {
@@ -10317,7 +10701,8 @@
           48.8685299,
           2.3861853
         ],
-        "address_clean": "1 rue d’Eupatoria, Paris 75020"
+        "address_clean": "1 rue d’Eupatoria, Paris 75020",
+        "url": "http://parisbymouth.com/roseval/"
       }
     },
     {
@@ -10344,7 +10729,8 @@
           48.967085,
           1.933828
         ],
-        "address_clean": "Chemin des Trois Poiriers, Paris 78130 Chapet "
+        "address_clean": "Chemin des Trois Poiriers, Paris 78130 Chapet ",
+        "url": "http://parisbymouth.com/our-guide-to-paris-le-kolo/"
       }
     },
     {
@@ -10371,7 +10757,8 @@
           48.83493379999999,
           2.2439047
         ],
-        "address_clean": "112 avenue Victor Hugo, Boulogne-Billancourt"
+        "address_clean": "112 avenue Victor Hugo, Boulogne-Billancourt",
+        "url": "http://parisbymouth.com/masa/"
       }
     }
   ]
